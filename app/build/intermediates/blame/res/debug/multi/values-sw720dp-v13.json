@@ -41,48 +41,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 68,
-                        "endOffset": 119
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endColumn": 68,
-                    "endOffset": 188
-                },
-                "from": {
-                    "file": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 124,
-                        "endColumn": 68,
-                        "endOffset": 188
-                    }
-                }
-            }
-        ]
     }
 ]

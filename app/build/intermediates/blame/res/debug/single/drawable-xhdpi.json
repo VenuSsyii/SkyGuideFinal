@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\augmented-reality-example-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "D:\\SkyGuide\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }

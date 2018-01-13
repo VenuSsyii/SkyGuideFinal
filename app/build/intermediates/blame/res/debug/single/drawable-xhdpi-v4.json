@@ -1,35 +1,23 @@
 [
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_02_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_02_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_22_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_22_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_18_light.png",
@@ -40,932 +28,12 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_audiotrack_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_audiotrack_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_grey.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_grey.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialog_close_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_dialog_close_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_0.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_0.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_09_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_09_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_grey.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_grey.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_10_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_05_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_05_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\places_ic_search.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_up_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_up_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_20_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_20_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_06_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_06_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_tv_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_tv_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\places_ic_search.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_00_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_00_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_48.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_01_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_01_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\places_ic_clear.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_off_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_off_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_closed_caption_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_closed_caption_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_05_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_05_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_04_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_20_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_20_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_14_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_05_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_05_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow.jpg",
-        "source": "D:\\augmented-reality-example-master\\app\\src\\main\\res\\drawable-xhdpi\\arrow.jpg"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_play_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_17_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_17_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_01_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_01_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_10_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_10_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialog_close_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_dialog_close_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_2.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_17_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_17_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_dark.png"
-    },
-    {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_18_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_18_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_dark.png",
@@ -976,16 +44,20 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_10_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_02_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialog_close_dark.png",
@@ -1000,112 +72,108 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_48.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_18_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_18_light.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_play_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_off_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_17_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_17_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_up_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_up_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_refresh_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_01_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_01_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_12_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_12_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_grey.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_grey.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_16_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_0.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
@@ -1124,28 +192,12 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disabled_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_dark.png",
@@ -1164,8 +216,16 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disconnected_dark.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_36.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
@@ -1184,40 +244,44 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_refresh_white_24.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_audiotrack_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_audiotrack_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_tv_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_22_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_00_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_00_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_07_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_07_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
@@ -1228,48 +292,48 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow.jpg",
         "source": "D:\\SkyGuide\\app\\src\\main\\res\\drawable-xhdpi\\arrow.jpg"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_08_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_16_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_dark.png",
@@ -1280,32 +344,24 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_21_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_21_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_2.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_21_light.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_light.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_24.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_light.png",
@@ -1320,6 +376,10 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_02_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_02_light.png"
     },
@@ -1328,16 +388,8 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
@@ -1352,10 +404,6 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -1364,24 +412,40 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_22_light.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_art_track_grey600_48.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_12_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
@@ -1400,112 +464,96 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_18_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disconnected_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disconnected_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_05_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_05_light.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_clear_white_24.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_17_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_17_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_11_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_07_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_volume_up_white_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_06_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_12_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_12_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_06_light.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_10_white_24.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_10_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play_light.png",
@@ -1516,10 +564,6 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_1.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -1528,32 +572,16 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_audiotrack_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_white_24.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_white_24.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_grey600_36.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_1.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_on.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play_dark.png",
@@ -1564,76 +592,48 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_dark.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_audiotrack_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_audiotrack_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_cast_white_36.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_10_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_10_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\places_ic_clear.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\drawable-xhdpi-v4\\places_ic_clear.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_group_light.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_15_light.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_10_light.png",
@@ -1644,8 +644,8 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_07_dark.png",
@@ -1660,24 +660,16 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_06_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_08_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_stop_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_stop_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_vol_type_speaker_light.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_09_light.png",
@@ -1688,32 +680,48 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_09_dark.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_white_24.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_21_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_21_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\\output\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disabled_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disabled_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_skip_previous_white_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -1724,8 +732,8 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_05_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
@@ -1748,28 +756,24 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_09_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_09_dark.png"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_20_dark.png",
@@ -1788,20 +792,32 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_20_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_14_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_17_light.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_21_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -1812,47 +828,103 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_01_light.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_05_dark.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_05_dark.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disabled_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_pause_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_media_pause_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_48.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_48.png"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_forward_30_grey600_36.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_00_dark.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_white_24.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_19_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_13_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_12_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\2f87245a864d351de99986854b953dce5c583198\\output\\res\\drawable-xhdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_03_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_white_24.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_white_24.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_disconnected_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\53847c4fd9575354bf134f71720266d8ea4a8e47\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_light.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_02_light.png"
     },
     {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\4ec9ba1b0141af4681adcfca2da82718bad0ed63\\output\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_dark.png",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_11_dark.png"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\629d8e554d18e926f1e4360ced91687db678bec5\\output\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_22_light.png"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     }
 ]

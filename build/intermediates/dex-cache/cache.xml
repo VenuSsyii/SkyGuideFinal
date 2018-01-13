@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="D:\augmented-reality-example-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\SkyGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a99ab5139a7a1a25f05de4cf97912cd257a942b">
+        <dex dex="D:\SkyGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c3b4eb333379de26964f7d5abae3480e2675f4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SkyGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\augmented-reality-example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fcbca25cf4a6c26424a9b32c0bb7708c515c3f89\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\augmented-reality-example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9e2fa2f128e4092cd59dc298996e6835cb49e5a6">
-        <dex dex="D:\augmented-reality-example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ca31cdcd005449a406bd70d758107c5726cf702c\classes.dex" />
+        <dex dex="D:\SkyGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8db5ec3ceaff2c5a2dee6ecfe4b119f156d2b5bf\classes.dex" />
     </item>
 
 </items>

@@ -5418,35 +5418,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.lycha.example.augmentedreality:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.lycha.example.augmentedreality:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.lycha.example.augmentedreality:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.lycha.example.augmentedreality:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.lycha.example.augmentedreality:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.lycha.example.augmentedreality:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.lycha.example.augmentedreality:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.lycha.example.augmentedreality:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.lycha.example.augmentedreality:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.lycha.example.augmentedreality:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.lycha.example.augmentedreality:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.lycha.example.augmentedreality:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.lycha.example.augmentedreality:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.lycha.example.augmentedreality:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.lycha.example.augmentedreality:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.lycha.example.augmentedreality:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.lycha.example.augmentedreality:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.lycha.example.augmentedreality:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.lycha.example.augmentedreality:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.lycha.example.augmentedreality:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.lycha.example.augmentedreality:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.lycha.example.augmentedreality:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.lycha.example.augmentedreality:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.lycha.example.augmentedreality:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.lycha.example.augmentedreality:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.lycha.example.augmentedreality:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.lycha.example.augmentedreality:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.lycha.example.augmentedreality:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.lycha.assignment.skyguide:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.lycha.assignment.skyguide:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.lycha.assignment.skyguide:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.lycha.assignment.skyguide:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.lycha.assignment.skyguide:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.lycha.assignment.skyguide:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.lycha.assignment.skyguide:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.lycha.assignment.skyguide:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.lycha.assignment.skyguide:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.lycha.assignment.skyguide:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.lycha.assignment.skyguide:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.lycha.assignment.skyguide:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.lycha.assignment.skyguide:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.lycha.assignment.skyguide:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.lycha.assignment.skyguide:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.lycha.assignment.skyguide:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.lycha.assignment.skyguide:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.lycha.assignment.skyguide:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.lycha.assignment.skyguide:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.lycha.assignment.skyguide:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.lycha.assignment.skyguide:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.lycha.assignment.skyguide:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.lycha.assignment.skyguide:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.lycha.assignment.skyguide:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.lycha.assignment.skyguide:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.lycha.assignment.skyguide:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.lycha.assignment.skyguide:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.lycha.assignment.skyguide:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -5489,17 +5489,17 @@ containing a value of this type.
             0x7f01009b
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#background}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:background
+          @attr name com.lycha.assignment.skyguide:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5507,11 +5507,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:backgroundSplit
+          @attr name com.lycha.assignment.skyguide:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5519,11 +5519,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:backgroundStacked
+          @attr name com.lycha.assignment.skyguide:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5535,11 +5535,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetEnd
+          @attr name com.lycha.assignment.skyguide:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5551,11 +5551,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetEndWithActions
+          @attr name com.lycha.assignment.skyguide:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5567,11 +5567,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetLeft
+          @attr name com.lycha.assignment.skyguide:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5583,11 +5583,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetRight
+          @attr name com.lycha.assignment.skyguide:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5599,11 +5599,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetStart
+          @attr name com.lycha.assignment.skyguide:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5615,21 +5615,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetStartWithNavigation
+          @attr name com.lycha.assignment.skyguide:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:customNavigationLayout
+          @attr name com.lycha.assignment.skyguide:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5647,21 +5647,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:displayOptions
+          @attr name com.lycha.assignment.skyguide:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:divider
+          @attr name com.lycha.assignment.skyguide:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5673,11 +5673,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#height}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5689,11 +5689,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:height
+          @attr name com.lycha.assignment.skyguide:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5703,51 +5703,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:hideOnContentScroll
+          @attr name com.lycha.assignment.skyguide:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:homeAsUpIndicator
+          @attr name com.lycha.assignment.skyguide:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:homeLayout
+          @attr name com.lycha.assignment.skyguide:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:icon
+          @attr name com.lycha.assignment.skyguide:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:indeterminateProgressStyle
+          @attr name com.lycha.assignment.skyguide:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5759,21 +5759,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:itemPadding
+          @attr name com.lycha.assignment.skyguide:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:logo
+          @attr name com.lycha.assignment.skyguide:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5787,21 +5787,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:navigationMode
+          @attr name com.lycha.assignment.skyguide:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:popupTheme
+          @attr name com.lycha.assignment.skyguide:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5813,21 +5813,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:progressBarPadding
+          @attr name com.lycha.assignment.skyguide:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:progressBarStyle
+          @attr name com.lycha.assignment.skyguide:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5837,21 +5837,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:subtitle
+          @attr name com.lycha.assignment.skyguide:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:subtitleTextStyle
+          @attr name com.lycha.assignment.skyguide:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#title}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5861,17 +5861,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:title
+          @attr name com.lycha.assignment.skyguide:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:titleTextStyle
+          @attr name com.lycha.assignment.skyguide:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -5923,12 +5923,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.lycha.example.augmentedreality:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.lycha.example.augmentedreality:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.lycha.example.augmentedreality:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.lycha.example.augmentedreality:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.lycha.example.augmentedreality:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.lycha.example.augmentedreality:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.lycha.assignment.skyguide:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.lycha.assignment.skyguide:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.lycha.assignment.skyguide:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.lycha.assignment.skyguide:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.lycha.assignment.skyguide:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.lycha.assignment.skyguide:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -5942,17 +5942,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010046, 0x7f010056
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#background}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:background
+          @attr name com.lycha.assignment.skyguide:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -5960,21 +5960,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:backgroundSplit
+          @attr name com.lycha.assignment.skyguide:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:closeItemLayout
+          @attr name com.lycha.assignment.skyguide:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#height}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -5986,27 +5986,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:height
+          @attr name com.lycha.assignment.skyguide:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:subtitleTextStyle
+          @attr name com.lycha.assignment.skyguide:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:titleTextStyle
+          @attr name com.lycha.assignment.skyguide:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -6015,8 +6015,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.lycha.example.augmentedreality:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.lycha.example.augmentedreality:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.lycha.assignment.skyguide:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.lycha.assignment.skyguide:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -6025,17 +6025,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010057, 0x7f010058
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:expandActivityOverflowButtonDrawable
+          @attr name com.lycha.assignment.skyguide:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -6045,7 +6045,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:initialActivityCount
+          @attr name com.lycha.assignment.skyguide:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -6054,9 +6054,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize com.lycha.example.augmentedreality:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes com.lycha.example.augmentedreality:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId com.lycha.example.augmentedreality:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize com.lycha.assignment.skyguide:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.lycha.assignment.skyguide:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.lycha.assignment.skyguide:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -6066,7 +6066,7 @@ containing a value of this type.
             0x7f010059, 0x7f01005a, 0x7f01005b
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#adSize}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6076,11 +6076,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:adSize
+          @attr name com.lycha.assignment.skyguide:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6090,11 +6090,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:adSizes
+          @attr name com.lycha.assignment.skyguide:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -6104,7 +6104,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:adUnitId
+          @attr name com.lycha.assignment.skyguide:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a AlertDialog.
@@ -6114,12 +6114,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.lycha.example.augmentedreality:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.lycha.example.augmentedreality:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.lycha.example.augmentedreality:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.lycha.example.augmentedreality:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.lycha.example.augmentedreality:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.lycha.example.augmentedreality:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.lycha.assignment.skyguide:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.lycha.assignment.skyguide:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.lycha.assignment.skyguide:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.lycha.assignment.skyguide:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.lycha.assignment.skyguide:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.lycha.assignment.skyguide:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -6140,47 +6140,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonPanelSideLayout
+          @attr name com.lycha.assignment.skyguide:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listItemLayout
+          @attr name com.lycha.assignment.skyguide:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listLayout
+          @attr name com.lycha.assignment.skyguide:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:multiChoiceItemLayout
+          @attr name com.lycha.assignment.skyguide:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -6190,17 +6190,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:showTitle
+          @attr name com.lycha.assignment.skyguide:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:singleChoiceItemLayout
+          @attr name com.lycha.assignment.skyguide:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -6210,8 +6210,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.lycha.example.augmentedreality:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.lycha.assignment.skyguide:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -6227,7 +6227,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6239,11 +6239,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6253,7 +6253,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expanded
+          @attr name com.lycha.assignment.skyguide:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -6262,8 +6262,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.lycha.example.augmentedreality:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.lycha.example.augmentedreality:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.lycha.assignment.skyguide:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.lycha.assignment.skyguide:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -6272,7 +6272,7 @@ containing a value of this type.
             0x7f010063, 0x7f010064
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6282,11 +6282,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:state_collapsed
+          @attr name com.lycha.assignment.skyguide:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -6296,7 +6296,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:state_collapsible
+          @attr name com.lycha.assignment.skyguide:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -6305,8 +6305,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.lycha.example.augmentedreality:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.lycha.example.augmentedreality:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.lycha.assignment.skyguide:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.lycha.assignment.skyguide:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6315,7 +6315,7 @@ containing a value of this type.
             0x7f010065, 0x7f010066
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -6331,17 +6331,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_scrollFlags
+          @attr name com.lycha.assignment.skyguide:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:layout_scrollInterpolator
+          @attr name com.lycha.assignment.skyguide:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -6351,7 +6351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.lycha.example.augmentedreality:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.lycha.assignment.skyguide:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -6366,13 +6366,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:srcCompat
+          @attr name com.lycha.assignment.skyguide:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -6382,9 +6382,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.lycha.example.augmentedreality:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.lycha.example.augmentedreality:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.lycha.example.augmentedreality:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.lycha.assignment.skyguide:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.lycha.assignment.skyguide:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.lycha.assignment.skyguide:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -6401,17 +6401,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:tickMark
+          @attr name com.lycha.assignment.skyguide:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6422,11 +6422,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tickMarkTint
+          @attr name com.lycha.assignment.skyguide:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -6443,7 +6443,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:tickMarkTintMode
+          @attr name com.lycha.assignment.skyguide:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -6521,7 +6521,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.lycha.example.augmentedreality:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.lycha.assignment.skyguide:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -6536,14 +6536,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.lycha.example.augmentedreality:textAllCaps
+          @attr name com.lycha.assignment.skyguide:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -6552,121 +6552,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.lycha.example.augmentedreality:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.lycha.example.augmentedreality:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.lycha.example.augmentedreality:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.lycha.example.augmentedreality:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.lycha.example.augmentedreality:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.lycha.example.augmentedreality:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.lycha.example.augmentedreality:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.lycha.example.augmentedreality:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.lycha.example.augmentedreality:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.lycha.example.augmentedreality:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.lycha.example.augmentedreality:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.lycha.example.augmentedreality:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.lycha.example.augmentedreality:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.lycha.example.augmentedreality:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.lycha.example.augmentedreality:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.lycha.example.augmentedreality:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.lycha.example.augmentedreality:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.lycha.example.augmentedreality:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.lycha.example.augmentedreality:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.lycha.example.augmentedreality:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.lycha.example.augmentedreality:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.lycha.example.augmentedreality:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.lycha.example.augmentedreality:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.lycha.example.augmentedreality:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.lycha.example.augmentedreality:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.lycha.example.augmentedreality:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.lycha.example.augmentedreality:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.lycha.example.augmentedreality:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.lycha.example.augmentedreality:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.lycha.example.augmentedreality:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.lycha.example.augmentedreality:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.lycha.example.augmentedreality:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.lycha.example.augmentedreality:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.lycha.example.augmentedreality:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.lycha.example.augmentedreality:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.lycha.assignment.skyguide:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.lycha.assignment.skyguide:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.lycha.assignment.skyguide:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.lycha.assignment.skyguide:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.lycha.assignment.skyguide:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.lycha.assignment.skyguide:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.lycha.assignment.skyguide:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.lycha.assignment.skyguide:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.lycha.assignment.skyguide:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.lycha.assignment.skyguide:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.lycha.assignment.skyguide:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.lycha.assignment.skyguide:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.lycha.assignment.skyguide:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.lycha.assignment.skyguide:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.lycha.assignment.skyguide:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.lycha.assignment.skyguide:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.lycha.assignment.skyguide:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.lycha.assignment.skyguide:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.lycha.assignment.skyguide:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.lycha.assignment.skyguide:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.lycha.assignment.skyguide:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.lycha.assignment.skyguide:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.lycha.assignment.skyguide:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.lycha.assignment.skyguide:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.lycha.assignment.skyguide:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.lycha.assignment.skyguide:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.lycha.assignment.skyguide:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.lycha.assignment.skyguide:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.lycha.assignment.skyguide:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.lycha.assignment.skyguide:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.lycha.assignment.skyguide:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.lycha.assignment.skyguide:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.lycha.assignment.skyguide:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.lycha.assignment.skyguide:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.lycha.assignment.skyguide:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.lycha.example.augmentedreality:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.lycha.example.augmentedreality:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.lycha.example.augmentedreality:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.lycha.example.augmentedreality:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.lycha.example.augmentedreality:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.lycha.example.augmentedreality:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.lycha.example.augmentedreality:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.lycha.example.augmentedreality:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.lycha.example.augmentedreality:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.lycha.example.augmentedreality:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.lycha.example.augmentedreality:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.lycha.example.augmentedreality:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.lycha.example.augmentedreality:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.lycha.example.augmentedreality:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.lycha.example.augmentedreality:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.lycha.example.augmentedreality:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.lycha.example.augmentedreality:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.lycha.example.augmentedreality:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.lycha.example.augmentedreality:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.lycha.example.augmentedreality:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.lycha.example.augmentedreality:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.lycha.example.augmentedreality:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.lycha.example.augmentedreality:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.lycha.example.augmentedreality:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.lycha.example.augmentedreality:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.lycha.example.augmentedreality:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.lycha.example.augmentedreality:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.lycha.example.augmentedreality:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.lycha.example.augmentedreality:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.lycha.example.augmentedreality:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.lycha.example.augmentedreality:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.lycha.example.augmentedreality:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.lycha.example.augmentedreality:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.lycha.example.augmentedreality:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.lycha.example.augmentedreality:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.lycha.example.augmentedreality:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.lycha.example.augmentedreality:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.lycha.example.augmentedreality:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.lycha.example.augmentedreality:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.lycha.example.augmentedreality:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.lycha.example.augmentedreality:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.lycha.example.augmentedreality:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.lycha.example.augmentedreality:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.lycha.example.augmentedreality:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.lycha.example.augmentedreality:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.lycha.example.augmentedreality:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.lycha.example.augmentedreality:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.lycha.example.augmentedreality:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.lycha.example.augmentedreality:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.lycha.example.augmentedreality:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.lycha.example.augmentedreality:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.lycha.example.augmentedreality:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.lycha.example.augmentedreality:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.lycha.example.augmentedreality:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.lycha.example.augmentedreality:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.lycha.example.augmentedreality:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.lycha.example.augmentedreality:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.lycha.example.augmentedreality:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.lycha.example.augmentedreality:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.lycha.example.augmentedreality:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.lycha.example.augmentedreality:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.lycha.example.augmentedreality:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.lycha.example.augmentedreality:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.lycha.example.augmentedreality:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.lycha.example.augmentedreality:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.lycha.example.augmentedreality:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.lycha.example.augmentedreality:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.lycha.example.augmentedreality:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.lycha.example.augmentedreality:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.lycha.example.augmentedreality:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.lycha.example.augmentedreality:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.lycha.example.augmentedreality:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.lycha.example.augmentedreality:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.lycha.example.augmentedreality:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.lycha.example.augmentedreality:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.lycha.example.augmentedreality:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.lycha.example.augmentedreality:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.lycha.example.augmentedreality:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.lycha.assignment.skyguide:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.lycha.assignment.skyguide:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.lycha.assignment.skyguide:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.lycha.assignment.skyguide:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.lycha.assignment.skyguide:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.lycha.assignment.skyguide:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.lycha.assignment.skyguide:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.lycha.assignment.skyguide:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.lycha.assignment.skyguide:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.lycha.assignment.skyguide:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.lycha.assignment.skyguide:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.lycha.assignment.skyguide:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.lycha.assignment.skyguide:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.lycha.assignment.skyguide:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.lycha.assignment.skyguide:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.lycha.assignment.skyguide:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.lycha.assignment.skyguide:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.lycha.assignment.skyguide:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.lycha.assignment.skyguide:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.lycha.assignment.skyguide:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.lycha.assignment.skyguide:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.lycha.assignment.skyguide:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.lycha.assignment.skyguide:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.lycha.assignment.skyguide:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.lycha.assignment.skyguide:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.lycha.assignment.skyguide:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.lycha.assignment.skyguide:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.lycha.assignment.skyguide:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.lycha.assignment.skyguide:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.lycha.assignment.skyguide:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.lycha.assignment.skyguide:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.lycha.assignment.skyguide:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.lycha.assignment.skyguide:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.lycha.assignment.skyguide:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.lycha.assignment.skyguide:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.lycha.assignment.skyguide:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.lycha.assignment.skyguide:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.lycha.assignment.skyguide:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.lycha.assignment.skyguide:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.lycha.assignment.skyguide:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.lycha.assignment.skyguide:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.lycha.assignment.skyguide:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.lycha.assignment.skyguide:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.lycha.assignment.skyguide:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.lycha.assignment.skyguide:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.lycha.assignment.skyguide:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.lycha.assignment.skyguide:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.lycha.assignment.skyguide:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.lycha.assignment.skyguide:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.lycha.assignment.skyguide:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.lycha.assignment.skyguide:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.lycha.assignment.skyguide:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.lycha.assignment.skyguide:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.lycha.assignment.skyguide:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.lycha.assignment.skyguide:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.lycha.assignment.skyguide:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.lycha.assignment.skyguide:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.lycha.assignment.skyguide:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.lycha.assignment.skyguide:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.lycha.assignment.skyguide:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.lycha.assignment.skyguide:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.lycha.assignment.skyguide:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.lycha.assignment.skyguide:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.lycha.assignment.skyguide:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.lycha.assignment.skyguide:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.lycha.assignment.skyguide:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.lycha.assignment.skyguide:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.lycha.assignment.skyguide:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.lycha.assignment.skyguide:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.lycha.assignment.skyguide:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.lycha.assignment.skyguide:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.lycha.assignment.skyguide:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.lycha.assignment.skyguide:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.lycha.assignment.skyguide:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.lycha.assignment.skyguide:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.lycha.assignment.skyguide:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.lycha.assignment.skyguide:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.lycha.assignment.skyguide:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -6816,37 +6816,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100da, 0x7f0100db, 0x7f0100dc
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarDivider
+          @attr name com.lycha.assignment.skyguide:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarItemBackground
+          @attr name com.lycha.assignment.skyguide:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarPopupTheme
+          @attr name com.lycha.assignment.skyguide:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6866,111 +6866,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:actionBarSize
+          @attr name com.lycha.assignment.skyguide:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarSplitStyle
+          @attr name com.lycha.assignment.skyguide:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarStyle
+          @attr name com.lycha.assignment.skyguide:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarTabBarStyle
+          @attr name com.lycha.assignment.skyguide:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarTabStyle
+          @attr name com.lycha.assignment.skyguide:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarTabTextStyle
+          @attr name com.lycha.assignment.skyguide:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarTheme
+          @attr name com.lycha.assignment.skyguide:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionBarWidgetTheme
+          @attr name com.lycha.assignment.skyguide:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionButtonStyle
+          @attr name com.lycha.assignment.skyguide:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionDropDownStyle
+          @attr name com.lycha.assignment.skyguide:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionMenuTextAppearance
+          @attr name com.lycha.assignment.skyguide:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6978,181 +6978,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionMenuTextColor
+          @attr name com.lycha.assignment.skyguide:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeBackground
+          @attr name com.lycha.assignment.skyguide:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeCloseButtonStyle
+          @attr name com.lycha.assignment.skyguide:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeCloseDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeCopyDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeCutDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeFindDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModePasteDrawable
+          @attr name com.lycha.assignment.skyguide:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModePopupWindowStyle
+          @attr name com.lycha.assignment.skyguide:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeSelectAllDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeShareDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeSplitBackground
+          @attr name com.lycha.assignment.skyguide:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeStyle
+          @attr name com.lycha.assignment.skyguide:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionModeWebSearchDrawable
+          @attr name com.lycha.assignment.skyguide:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionOverflowButtonStyle
+          @attr name com.lycha.assignment.skyguide:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionOverflowMenuStyle
+          @attr name com.lycha.assignment.skyguide:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:activityChooserViewStyle
+          @attr name com.lycha.assignment.skyguide:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:alertDialogButtonGroupStyle
+          @attr name com.lycha.assignment.skyguide:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7162,27 +7162,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:alertDialogCenterButtons
+          @attr name com.lycha.assignment.skyguide:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:alertDialogStyle
+          @attr name com.lycha.assignment.skyguide:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:alertDialogTheme
+          @attr name com.lycha.assignment.skyguide:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -7198,117 +7198,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:autoCompleteTextViewStyle
+          @attr name com.lycha.assignment.skyguide:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:borderlessButtonStyle
+          @attr name com.lycha.assignment.skyguide:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonBarButtonStyle
+          @attr name com.lycha.assignment.skyguide:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonBarNegativeButtonStyle
+          @attr name com.lycha.assignment.skyguide:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonBarNeutralButtonStyle
+          @attr name com.lycha.assignment.skyguide:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonBarPositiveButtonStyle
+          @attr name com.lycha.assignment.skyguide:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonBarStyle
+          @attr name com.lycha.assignment.skyguide:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonStyle
+          @attr name com.lycha.assignment.skyguide:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:buttonStyleSmall
+          @attr name com.lycha.assignment.skyguide:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:checkboxStyle
+          @attr name com.lycha.assignment.skyguide:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:checkedTextViewStyle
+          @attr name com.lycha.assignment.skyguide:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7319,11 +7319,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorAccent
+          @attr name com.lycha.assignment.skyguide:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7334,11 +7334,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorBackgroundFloating
+          @attr name com.lycha.assignment.skyguide:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7349,11 +7349,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorButtonNormal
+          @attr name com.lycha.assignment.skyguide:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7364,11 +7364,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorControlActivated
+          @attr name com.lycha.assignment.skyguide:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7379,11 +7379,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorControlHighlight
+          @attr name com.lycha.assignment.skyguide:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7394,11 +7394,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorControlNormal
+          @attr name com.lycha.assignment.skyguide:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7409,11 +7409,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorPrimary
+          @attr name com.lycha.assignment.skyguide:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7424,11 +7424,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorPrimaryDark
+          @attr name com.lycha.assignment.skyguide:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7439,21 +7439,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:colorSwitchThumbNormal
+          @attr name com.lycha.assignment.skyguide:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:controlBackground
+          @attr name com.lycha.assignment.skyguide:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7465,51 +7465,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:dialogPreferredPadding
+          @attr name com.lycha.assignment.skyguide:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:dialogTheme
+          @attr name com.lycha.assignment.skyguide:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:dividerHorizontal
+          @attr name com.lycha.assignment.skyguide:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:dividerVertical
+          @attr name com.lycha.assignment.skyguide:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:dropDownListViewStyle
+          @attr name com.lycha.assignment.skyguide:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7521,21 +7521,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:dropdownListPreferredItemHeight
+          @attr name com.lycha.assignment.skyguide:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:editTextBackground
+          @attr name com.lycha.assignment.skyguide:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7543,81 +7543,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:editTextColor
+          @attr name com.lycha.assignment.skyguide:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:editTextStyle
+          @attr name com.lycha.assignment.skyguide:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:homeAsUpIndicator
+          @attr name com.lycha.assignment.skyguide:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:imageButtonStyle
+          @attr name com.lycha.assignment.skyguide:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listChoiceBackgroundIndicator
+          @attr name com.lycha.assignment.skyguide:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listDividerAlertDialog
+          @attr name com.lycha.assignment.skyguide:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listMenuViewStyle
+          @attr name com.lycha.assignment.skyguide:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:listPopupWindowStyle
+          @attr name com.lycha.assignment.skyguide:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7629,11 +7629,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:listPreferredItemHeight
+          @attr name com.lycha.assignment.skyguide:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7645,11 +7645,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:listPreferredItemHeightLarge
+          @attr name com.lycha.assignment.skyguide:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7661,11 +7661,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:listPreferredItemHeightSmall
+          @attr name com.lycha.assignment.skyguide:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7677,11 +7677,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:listPreferredItemPaddingLeft
+          @attr name com.lycha.assignment.skyguide:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7693,31 +7693,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:listPreferredItemPaddingRight
+          @attr name com.lycha.assignment.skyguide:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:panelBackground
+          @attr name com.lycha.assignment.skyguide:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:panelMenuListTheme
+          @attr name com.lycha.assignment.skyguide:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7729,211 +7729,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:panelMenuListWidth
+          @attr name com.lycha.assignment.skyguide:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:popupMenuStyle
+          @attr name com.lycha.assignment.skyguide:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:popupWindowStyle
+          @attr name com.lycha.assignment.skyguide:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:radioButtonStyle
+          @attr name com.lycha.assignment.skyguide:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:ratingBarStyle
+          @attr name com.lycha.assignment.skyguide:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:ratingBarStyleIndicator
+          @attr name com.lycha.assignment.skyguide:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:ratingBarStyleSmall
+          @attr name com.lycha.assignment.skyguide:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:searchViewStyle
+          @attr name com.lycha.assignment.skyguide:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:seekBarStyle
+          @attr name com.lycha.assignment.skyguide:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:selectableItemBackground
+          @attr name com.lycha.assignment.skyguide:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:selectableItemBackgroundBorderless
+          @attr name com.lycha.assignment.skyguide:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:spinnerDropDownItemStyle
+          @attr name com.lycha.assignment.skyguide:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:spinnerStyle
+          @attr name com.lycha.assignment.skyguide:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:switchStyle
+          @attr name com.lycha.assignment.skyguide:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceLargePopupMenu
+          @attr name com.lycha.assignment.skyguide:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceListItem
+          @attr name com.lycha.assignment.skyguide:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceListItemSmall
+          @attr name com.lycha.assignment.skyguide:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearancePopupMenuHeader
+          @attr name com.lycha.assignment.skyguide:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceSearchResultSubtitle
+          @attr name com.lycha.assignment.skyguide:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceSearchResultTitle
+          @attr name com.lycha.assignment.skyguide:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:textAppearanceSmallPopupMenu
+          @attr name com.lycha.assignment.skyguide:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7941,11 +7941,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:textColorAlertDialogListItem
+          @attr name com.lycha.assignment.skyguide:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7953,31 +7953,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:textColorSearchUrl
+          @attr name com.lycha.assignment.skyguide:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:toolbarNavigationButtonStyle
+          @attr name com.lycha.assignment.skyguide:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:toolbarStyle
+          @attr name com.lycha.assignment.skyguide:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -7987,11 +7987,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowActionBar
+          @attr name com.lycha.assignment.skyguide:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8001,11 +8001,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowActionBarOverlay
+          @attr name com.lycha.assignment.skyguide:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8015,11 +8015,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowActionModeOverlay
+          @attr name com.lycha.assignment.skyguide:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8034,11 +8034,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowFixedHeightMajor
+          @attr name com.lycha.assignment.skyguide:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8053,11 +8053,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowFixedHeightMinor
+          @attr name com.lycha.assignment.skyguide:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8072,11 +8072,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowFixedWidthMajor
+          @attr name com.lycha.assignment.skyguide:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8091,11 +8091,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowFixedWidthMinor
+          @attr name com.lycha.assignment.skyguide:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8110,11 +8110,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowMinWidthMajor
+          @attr name com.lycha.assignment.skyguide:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8129,11 +8129,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowMinWidthMinor
+          @attr name com.lycha.assignment.skyguide:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8143,7 +8143,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:windowNoTitle
+          @attr name com.lycha.assignment.skyguide:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a AppDataSearch.
@@ -8157,11 +8157,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.lycha.example.augmentedreality:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.lycha.example.augmentedreality:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.lycha.example.augmentedreality:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.lycha.example.augmentedreality:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.lycha.assignment.skyguide:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.lycha.assignment.skyguide:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.lycha.assignment.skyguide:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.lycha.assignment.skyguide:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -8174,7 +8174,7 @@ containing a value of this type.
             0x7f01016e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8186,21 +8186,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:itemBackground
+          @attr name com.lycha.assignment.skyguide:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8211,11 +8211,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:itemIconTint
+          @attr name com.lycha.assignment.skyguide:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -8226,17 +8226,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:itemTextColor
+          @attr name com.lycha.assignment.skyguide:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:menu
+          @attr name com.lycha.assignment.skyguide:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -8245,9 +8245,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.lycha.example.augmentedreality:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.lycha.example.augmentedreality:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.lycha.example.augmentedreality:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.lycha.assignment.skyguide:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.lycha.assignment.skyguide:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.lycha.assignment.skyguide:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -8257,7 +8257,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100dd, 0x7f0100de, 0x7f0100df
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8267,11 +8267,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:behavior_hideable
+          @attr name com.lycha.assignment.skyguide:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8291,11 +8291,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:behavior_peekHeight
+          @attr name com.lycha.assignment.skyguide:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -8305,7 +8305,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:behavior_skipCollapsed
+          @attr name com.lycha.assignment.skyguide:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -8314,7 +8314,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.lycha.example.augmentedreality:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.lycha.assignment.skyguide:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -8322,7 +8322,7 @@ containing a value of this type.
             0x7f0100e0
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -8332,7 +8332,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:allowStacking
+          @attr name com.lycha.assignment.skyguide:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CastExpandedController.
@@ -8341,19 +8341,19 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastExpandedController_castButtonColor com.lycha.example.augmentedreality:castButtonColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castClosedCaptionsButtonDrawable com.lycha.example.augmentedreality:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castControlButtons com.lycha.example.augmentedreality:castControlButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castForward30ButtonDrawable com.lycha.example.augmentedreality:castForward30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castMuteToggleButtonDrawable com.lycha.example.augmentedreality:castMuteToggleButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castPauseButtonDrawable com.lycha.example.augmentedreality:castPauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castPlayButtonDrawable com.lycha.example.augmentedreality:castPlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castRewind30ButtonDrawable com.lycha.example.augmentedreality:castRewind30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSeekBarProgressDrawable com.lycha.example.augmentedreality:castSeekBarProgressDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSeekBarThumbDrawable com.lycha.example.augmentedreality:castSeekBarThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSkipNextButtonDrawable com.lycha.example.augmentedreality:castSkipNextButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castSkipPreviousButtonDrawable com.lycha.example.augmentedreality:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastExpandedController_castStopButtonDrawable com.lycha.example.augmentedreality:castStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castButtonColor com.lycha.assignment.skyguide:castButtonColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castClosedCaptionsButtonDrawable com.lycha.assignment.skyguide:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castControlButtons com.lycha.assignment.skyguide:castControlButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castForward30ButtonDrawable com.lycha.assignment.skyguide:castForward30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castMuteToggleButtonDrawable com.lycha.assignment.skyguide:castMuteToggleButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castPauseButtonDrawable com.lycha.assignment.skyguide:castPauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castPlayButtonDrawable com.lycha.assignment.skyguide:castPlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castRewind30ButtonDrawable com.lycha.assignment.skyguide:castRewind30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSeekBarProgressDrawable com.lycha.assignment.skyguide:castSeekBarProgressDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSeekBarThumbDrawable com.lycha.assignment.skyguide:castSeekBarThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSkipNextButtonDrawable com.lycha.assignment.skyguide:castSkipNextButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castSkipPreviousButtonDrawable com.lycha.assignment.skyguide:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastExpandedController_castStopButtonDrawable com.lycha.assignment.skyguide:castStopButtonDrawable}</code></td><td></td></tr>
            </table>
            @see #CastExpandedController_castButtonColor
            @see #CastExpandedController_castClosedCaptionsButtonDrawable
@@ -8376,7 +8376,7 @@ containing a value of this type.
             0x7f0100fa
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castButtonColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castButtonColor}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
@@ -8384,127 +8384,127 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:castButtonColor
+          @attr name com.lycha.assignment.skyguide:castButtonColor
         */
         public static final int CastExpandedController_castButtonColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castClosedCaptionsButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castClosedCaptionsButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castClosedCaptionsButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castClosedCaptionsButtonDrawable
         */
         public static final int CastExpandedController_castClosedCaptionsButtonDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castControlButtons}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castControlButtons}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castControlButtons
+          @attr name com.lycha.assignment.skyguide:castControlButtons
         */
         public static final int CastExpandedController_castControlButtons = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castForward30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castForward30ButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castForward30ButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castForward30ButtonDrawable
         */
         public static final int CastExpandedController_castForward30ButtonDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castMuteToggleButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castMuteToggleButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castMuteToggleButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castMuteToggleButtonDrawable
         */
         public static final int CastExpandedController_castMuteToggleButtonDrawable = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castPauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castPauseButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castPauseButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castPauseButtonDrawable
         */
         public static final int CastExpandedController_castPauseButtonDrawable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castPlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castPlayButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castPlayButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castPlayButtonDrawable
         */
         public static final int CastExpandedController_castPlayButtonDrawable = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castRewind30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castRewind30ButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castRewind30ButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castRewind30ButtonDrawable
         */
         public static final int CastExpandedController_castRewind30ButtonDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSeekBarProgressDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSeekBarProgressDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSeekBarProgressDrawable
+          @attr name com.lycha.assignment.skyguide:castSeekBarProgressDrawable
         */
         public static final int CastExpandedController_castSeekBarProgressDrawable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSeekBarThumbDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSeekBarThumbDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSeekBarThumbDrawable
+          @attr name com.lycha.assignment.skyguide:castSeekBarThumbDrawable
         */
         public static final int CastExpandedController_castSeekBarThumbDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSkipNextButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSkipNextButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSkipNextButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castSkipNextButtonDrawable
         */
         public static final int CastExpandedController_castSkipNextButtonDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSkipPreviousButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSkipPreviousButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSkipPreviousButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castSkipPreviousButtonDrawable
         */
         public static final int CastExpandedController_castSkipPreviousButtonDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castStopButtonDrawable}
           attribute's value can be found in the {@link #CastExpandedController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castStopButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castStopButtonDrawable
         */
         public static final int CastExpandedController_castStopButtonDrawable = 6;
         /** Attributes that can be used with a CastIntroOverlay.
@@ -8513,12 +8513,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.lycha.example.augmentedreality:castBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.lycha.example.augmentedreality:castButtonBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonText com.lycha.example.augmentedreality:castButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.lycha.example.augmentedreality:castButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.lycha.example.augmentedreality:castFocusRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.lycha.example.augmentedreality:castTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.lycha.assignment.skyguide:castBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.lycha.assignment.skyguide:castButtonBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonText com.lycha.assignment.skyguide:castButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.lycha.assignment.skyguide:castButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.lycha.assignment.skyguide:castFocusRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.lycha.assignment.skyguide:castTitleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #CastIntroOverlay_castBackgroundColor
            @see #CastIntroOverlay_castButtonBackgroundColor
@@ -8532,7 +8532,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e7, 0x7f0100e8
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castBackgroundColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castBackgroundColor}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -8540,11 +8540,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:castBackgroundColor
+          @attr name com.lycha.assignment.skyguide:castBackgroundColor
         */
         public static final int CastIntroOverlay_castBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castButtonBackgroundColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castButtonBackgroundColor}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -8552,32 +8552,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:castButtonBackgroundColor
+          @attr name com.lycha.assignment.skyguide:castButtonBackgroundColor
         */
         public static final int CastIntroOverlay_castButtonBackgroundColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castButtonText}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castButtonText}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.lycha.example.augmentedreality:castButtonText
+          @attr name com.lycha.assignment.skyguide:castButtonText
         */
         public static final int CastIntroOverlay_castButtonText = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castButtonTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castButtonTextAppearance}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castButtonTextAppearance
+          @attr name com.lycha.assignment.skyguide:castButtonTextAppearance
         */
         public static final int CastIntroOverlay_castButtonTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castFocusRadius}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castFocusRadius}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
@@ -8586,17 +8586,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.lycha.example.augmentedreality:castFocusRadius
+          @attr name com.lycha.assignment.skyguide:castFocusRadius
         */
         public static final int CastIntroOverlay_castFocusRadius = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castTitleTextAppearance}
           attribute's value can be found in the {@link #CastIntroOverlay} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castTitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:castTitleTextAppearance
         */
         public static final int CastIntroOverlay_castTitleTextAppearance = 4;
         /** Attributes that can be used with a CastMiniController.
@@ -8605,25 +8605,25 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CastMiniController_castBackground com.lycha.example.augmentedreality:castBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castButtonColor com.lycha.example.augmentedreality:castButtonColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castClosedCaptionsButtonDrawable com.lycha.example.augmentedreality:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castControlButtons com.lycha.example.augmentedreality:castControlButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castForward30ButtonDrawable com.lycha.example.augmentedreality:castForward30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargePauseButtonDrawable com.lycha.example.augmentedreality:castLargePauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargePlayButtonDrawable com.lycha.example.augmentedreality:castLargePlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castLargeStopButtonDrawable com.lycha.example.augmentedreality:castLargeStopButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castMuteToggleButtonDrawable com.lycha.example.augmentedreality:castMuteToggleButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castPauseButtonDrawable com.lycha.example.augmentedreality:castPauseButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castPlayButtonDrawable com.lycha.example.augmentedreality:castPlayButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castProgressBarColor com.lycha.example.augmentedreality:castProgressBarColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castRewind30ButtonDrawable com.lycha.example.augmentedreality:castRewind30ButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.lycha.example.augmentedreality:castShowImageThumbnail}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSkipNextButtonDrawable com.lycha.example.augmentedreality:castSkipNextButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSkipPreviousButtonDrawable com.lycha.example.augmentedreality:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castStopButtonDrawable com.lycha.example.augmentedreality:castStopButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.lycha.example.augmentedreality:castSubtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.lycha.example.augmentedreality:castTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castBackground com.lycha.assignment.skyguide:castBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castButtonColor com.lycha.assignment.skyguide:castButtonColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castClosedCaptionsButtonDrawable com.lycha.assignment.skyguide:castClosedCaptionsButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castControlButtons com.lycha.assignment.skyguide:castControlButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castForward30ButtonDrawable com.lycha.assignment.skyguide:castForward30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargePauseButtonDrawable com.lycha.assignment.skyguide:castLargePauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargePlayButtonDrawable com.lycha.assignment.skyguide:castLargePlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castLargeStopButtonDrawable com.lycha.assignment.skyguide:castLargeStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castMuteToggleButtonDrawable com.lycha.assignment.skyguide:castMuteToggleButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castPauseButtonDrawable com.lycha.assignment.skyguide:castPauseButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castPlayButtonDrawable com.lycha.assignment.skyguide:castPlayButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castProgressBarColor com.lycha.assignment.skyguide:castProgressBarColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castRewind30ButtonDrawable com.lycha.assignment.skyguide:castRewind30ButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.lycha.assignment.skyguide:castShowImageThumbnail}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSkipNextButtonDrawable com.lycha.assignment.skyguide:castSkipNextButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSkipPreviousButtonDrawable com.lycha.assignment.skyguide:castSkipPreviousButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castStopButtonDrawable com.lycha.assignment.skyguide:castStopButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.lycha.assignment.skyguide:castSubtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.lycha.assignment.skyguide:castTitleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #CastMiniController_castBackground
            @see #CastMiniController_castButtonColor
@@ -8653,7 +8653,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f8, 0x7f0100f9, 0x7f0100fa
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castBackground}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -8661,11 +8661,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:castBackground
+          @attr name com.lycha.assignment.skyguide:castBackground
         */
         public static final int CastMiniController_castBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castButtonColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castButtonColor}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -8673,101 +8673,101 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:castButtonColor
+          @attr name com.lycha.assignment.skyguide:castButtonColor
         */
         public static final int CastMiniController_castButtonColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castClosedCaptionsButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castClosedCaptionsButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castClosedCaptionsButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castClosedCaptionsButtonDrawable
         */
         public static final int CastMiniController_castClosedCaptionsButtonDrawable = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castControlButtons}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castControlButtons}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castControlButtons
+          @attr name com.lycha.assignment.skyguide:castControlButtons
         */
         public static final int CastMiniController_castControlButtons = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castForward30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castForward30ButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castForward30ButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castForward30ButtonDrawable
         */
         public static final int CastMiniController_castForward30ButtonDrawable = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castLargePauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castLargePauseButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castLargePauseButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castLargePauseButtonDrawable
         */
         public static final int CastMiniController_castLargePauseButtonDrawable = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castLargePlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castLargePlayButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castLargePlayButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castLargePlayButtonDrawable
         */
         public static final int CastMiniController_castLargePlayButtonDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castLargeStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castLargeStopButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castLargeStopButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castLargeStopButtonDrawable
         */
         public static final int CastMiniController_castLargeStopButtonDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castMuteToggleButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castMuteToggleButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castMuteToggleButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castMuteToggleButtonDrawable
         */
         public static final int CastMiniController_castMuteToggleButtonDrawable = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castPauseButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castPauseButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castPauseButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castPauseButtonDrawable
         */
         public static final int CastMiniController_castPauseButtonDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castPlayButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castPlayButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castPlayButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castPlayButtonDrawable
         */
         public static final int CastMiniController_castPlayButtonDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castProgressBarColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castProgressBarColor}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -8778,21 +8778,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:castProgressBarColor
+          @attr name com.lycha.assignment.skyguide:castProgressBarColor
         */
         public static final int CastMiniController_castProgressBarColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castRewind30ButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castRewind30ButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castRewind30ButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castRewind30ButtonDrawable
         */
         public static final int CastMiniController_castRewind30ButtonDrawable = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castShowImageThumbnail}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castShowImageThumbnail}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
@@ -8802,57 +8802,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:castShowImageThumbnail
+          @attr name com.lycha.assignment.skyguide:castShowImageThumbnail
         */
         public static final int CastMiniController_castShowImageThumbnail = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSkipNextButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSkipNextButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSkipNextButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castSkipNextButtonDrawable
         */
         public static final int CastMiniController_castSkipNextButtonDrawable = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSkipPreviousButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSkipPreviousButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSkipPreviousButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castSkipPreviousButtonDrawable
         */
         public static final int CastMiniController_castSkipPreviousButtonDrawable = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castStopButtonDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castStopButtonDrawable}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castStopButtonDrawable
+          @attr name com.lycha.assignment.skyguide:castStopButtonDrawable
         */
         public static final int CastMiniController_castStopButtonDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castSubtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castSubtitleTextAppearance}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castSubtitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:castSubtitleTextAppearance
         */
         public static final int CastMiniController_castSubtitleTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castTitleTextAppearance}
           attribute's value can be found in the {@link #CastMiniController} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castTitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:castTitleTextAppearance
         */
         public static final int CastMiniController_castTitleTextAppearance = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -8861,22 +8861,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.lycha.example.augmentedreality:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.lycha.example.augmentedreality:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.lycha.example.augmentedreality:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.lycha.example.augmentedreality:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.lycha.example.augmentedreality:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.lycha.example.augmentedreality:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.lycha.example.augmentedreality:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.lycha.example.augmentedreality:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.lycha.example.augmentedreality:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.lycha.example.augmentedreality:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.lycha.example.augmentedreality:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.lycha.example.augmentedreality:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.lycha.example.augmentedreality:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.lycha.example.augmentedreality:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.lycha.example.augmentedreality:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.lycha.example.augmentedreality:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.lycha.assignment.skyguide:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.lycha.assignment.skyguide:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.lycha.assignment.skyguide:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.lycha.assignment.skyguide:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.lycha.assignment.skyguide:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.lycha.assignment.skyguide:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.lycha.assignment.skyguide:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.lycha.assignment.skyguide:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.lycha.assignment.skyguide:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.lycha.assignment.skyguide:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.lycha.assignment.skyguide:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.lycha.assignment.skyguide:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.lycha.assignment.skyguide:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.lycha.assignment.skyguide:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.lycha.assignment.skyguide:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.lycha.assignment.skyguide:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -8902,7 +8902,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010106, 0x7f010107, 0x7f010108, 0x7f010109
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8923,21 +8923,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:collapsedTitleGravity
+          @attr name com.lycha.assignment.skyguide:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:collapsedTitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8948,11 +8948,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentScrim
+          @attr name com.lycha.assignment.skyguide:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8973,11 +8973,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:expandedTitleGravity
+          @attr name com.lycha.assignment.skyguide:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -8989,11 +8989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expandedTitleMargin
+          @attr name com.lycha.assignment.skyguide:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9005,11 +9005,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expandedTitleMarginBottom
+          @attr name com.lycha.assignment.skyguide:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9021,11 +9021,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expandedTitleMarginEnd
+          @attr name com.lycha.assignment.skyguide:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9037,11 +9037,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expandedTitleMarginStart
+          @attr name com.lycha.assignment.skyguide:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9053,21 +9053,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:expandedTitleMarginTop
+          @attr name com.lycha.assignment.skyguide:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:expandedTitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9077,11 +9077,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:scrimAnimationDuration
+          @attr name com.lycha.assignment.skyguide:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9093,11 +9093,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:scrimVisibleHeightTrigger
+          @attr name com.lycha.assignment.skyguide:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9108,11 +9108,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:statusBarScrim
+          @attr name com.lycha.assignment.skyguide:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#title}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9122,11 +9122,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:title
+          @attr name com.lycha.assignment.skyguide:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -9136,17 +9136,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleEnabled
+          @attr name com.lycha.assignment.skyguide:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:toolbarId
+          @attr name com.lycha.assignment.skyguide:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -9155,8 +9155,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.lycha.example.augmentedreality:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.lycha.example.augmentedreality:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.lycha.assignment.skyguide:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.lycha.assignment.skyguide:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -9165,7 +9165,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010a, 0x7f01010b
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -9179,11 +9179,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_collapseMode
+          @attr name com.lycha.assignment.skyguide:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -9193,7 +9193,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_collapseParallaxMultiplier
+          @attr name com.lycha.assignment.skyguide:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -9202,7 +9202,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.lycha.example.augmentedreality:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.lycha.assignment.skyguide:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -9214,7 +9214,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f01010c
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -9224,7 +9224,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:alpha
+          @attr name com.lycha.assignment.skyguide:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -9246,8 +9246,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.lycha.example.augmentedreality:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.lycha.example.augmentedreality:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.lycha.assignment.skyguide:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.lycha.assignment.skyguide:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -9263,7 +9263,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -9274,11 +9274,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:buttonTint
+          @attr name com.lycha.assignment.skyguide:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -9294,7 +9294,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buttonTintMode
+          @attr name com.lycha.assignment.skyguide:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a ConstraintLayout_Layout.
@@ -9308,50 +9308,50 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintLayout_Layout_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.lycha.example.augmentedreality:constraintSet}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.lycha.example.augmentedreality:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.lycha.example.augmentedreality:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.lycha.example.augmentedreality:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.lycha.example.augmentedreality:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.lycha.example.augmentedreality:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.lycha.example.augmentedreality:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.lycha.example.augmentedreality:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.lycha.example.augmentedreality:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.lycha.example.augmentedreality:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.lycha.example.augmentedreality:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.lycha.example.augmentedreality:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.lycha.example.augmentedreality:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.lycha.example.augmentedreality:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.lycha.example.augmentedreality:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.lycha.example.augmentedreality:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.lycha.example.augmentedreality:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.lycha.example.augmentedreality:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.lycha.example.augmentedreality:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.lycha.example.augmentedreality:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.lycha.example.augmentedreality:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.lycha.example.augmentedreality:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.lycha.example.augmentedreality:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.lycha.example.augmentedreality:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.lycha.example.augmentedreality:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.lycha.example.augmentedreality:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.lycha.example.augmentedreality:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.lycha.example.augmentedreality:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.lycha.example.augmentedreality:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.lycha.example.augmentedreality:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.lycha.example.augmentedreality:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.lycha.example.augmentedreality:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.lycha.example.augmentedreality:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.lycha.example.augmentedreality:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.lycha.example.augmentedreality:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.lycha.example.augmentedreality:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.lycha.example.augmentedreality:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.lycha.example.augmentedreality:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.lycha.example.augmentedreality:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.lycha.example.augmentedreality:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.lycha.example.augmentedreality:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.lycha.example.augmentedreality:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.lycha.example.augmentedreality:layout_goneMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.lycha.example.augmentedreality:layout_optimizationLevel}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.lycha.assignment.skyguide:constraintSet}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.lycha.assignment.skyguide:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.lycha.assignment.skyguide:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.lycha.assignment.skyguide:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.lycha.assignment.skyguide:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.lycha.assignment.skyguide:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.lycha.assignment.skyguide:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.lycha.assignment.skyguide:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.lycha.assignment.skyguide:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.lycha.assignment.skyguide:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.lycha.assignment.skyguide:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.lycha.assignment.skyguide:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.lycha.assignment.skyguide:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.lycha.assignment.skyguide:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.lycha.assignment.skyguide:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.lycha.assignment.skyguide:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.lycha.assignment.skyguide:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.lycha.assignment.skyguide:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.lycha.assignment.skyguide:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.lycha.assignment.skyguide:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.lycha.assignment.skyguide:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.lycha.assignment.skyguide:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.lycha.assignment.skyguide:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.lycha.assignment.skyguide:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.lycha.assignment.skyguide:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.lycha.assignment.skyguide:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.lycha.assignment.skyguide:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.lycha.assignment.skyguide:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.lycha.assignment.skyguide:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.lycha.assignment.skyguide:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.lycha.assignment.skyguide:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.lycha.assignment.skyguide:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.lycha.assignment.skyguide:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.lycha.assignment.skyguide:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.lycha.assignment.skyguide:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.lycha.assignment.skyguide:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.lycha.assignment.skyguide:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.lycha.assignment.skyguide:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.lycha.assignment.skyguide:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.lycha.assignment.skyguide:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.lycha.assignment.skyguide:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.lycha.assignment.skyguide:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.lycha.assignment.skyguide:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.lycha.assignment.skyguide:layout_optimizationLevel}</code></td><td></td></tr>
            </table>
            @see #ConstraintLayout_Layout_android_maxHeight
            @see #ConstraintLayout_Layout_android_maxWidth
@@ -9449,17 +9449,17 @@ containing a value of this type.
         */
         public static final int ConstraintLayout_Layout_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#constraintSet}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#constraintSet}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:constraintSet
+          @attr name com.lycha.assignment.skyguide:constraintSet
         */
         public static final int ConstraintLayout_Layout_constraintSet = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9469,11 +9469,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintBaseline_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintBaseline_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9487,11 +9487,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBaseline_toBaselineOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9501,11 +9501,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_creator = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9519,11 +9519,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_toBottomOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9537,11 +9537,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_toTopOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9551,11 +9551,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintDimensionRatio
+          @attr name com.lycha.assignment.skyguide:layout_constraintDimensionRatio
         */
         public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9569,11 +9569,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintEnd_toEndOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9587,11 +9587,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintEnd_toStartOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9603,11 +9603,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_begin
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_begin
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_begin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9619,11 +9619,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_end
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_end
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_end = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9633,11 +9633,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_percent
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_percent
         */
         public static final int ConstraintLayout_Layout_layout_constraintGuide_percent = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9650,11 +9650,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_default
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_default = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9666,11 +9666,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_max
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_max = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9682,11 +9682,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_min
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintHeight_min = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9696,11 +9696,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_bias
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9714,11 +9714,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_chainStyle
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9728,11 +9728,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_weight
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9742,11 +9742,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_creator = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9760,11 +9760,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_toLeftOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9778,11 +9778,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_toRightOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9792,11 +9792,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_creator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9810,11 +9810,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_toLeftOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf = 27;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9828,11 +9828,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_toRightOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_toRightOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9846,11 +9846,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintStart_toEndOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintStart_toEndOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9864,11 +9864,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintStart_toStartOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintStart_toStartOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf = 30;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9878,11 +9878,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_creator
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_creator = 31;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9896,11 +9896,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_toBottomOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf = 32;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9914,11 +9914,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_toTopOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_toTopOf
         */
         public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf = 33;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9928,11 +9928,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_bias
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_bias
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_bias = 34;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9946,11 +9946,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_chainStyle
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9960,11 +9960,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_weight
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_weight
         */
         public static final int ConstraintLayout_Layout_layout_constraintVertical_weight = 36;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9977,11 +9977,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_default
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_default
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_default = 37;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -9993,11 +9993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_max
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_max
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_max = 38;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10009,11 +10009,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_min
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_min
         */
         public static final int ConstraintLayout_Layout_layout_constraintWidth_min = 39;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10025,11 +10025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_editor_absoluteX
+          @attr name com.lycha.assignment.skyguide:layout_editor_absoluteX
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteX = 40;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10041,11 +10041,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_editor_absoluteY
+          @attr name com.lycha.assignment.skyguide:layout_editor_absoluteY
         */
         public static final int ConstraintLayout_Layout_layout_editor_absoluteY = 41;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10057,11 +10057,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginBottom
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginBottom
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginBottom = 42;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10073,11 +10073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginEnd
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginEnd
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginEnd = 43;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10089,11 +10089,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginLeft
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginLeft
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginLeft = 44;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10105,11 +10105,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginRight
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginRight
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginRight = 45;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10121,11 +10121,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginStart
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginStart
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginStart = 46;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10137,11 +10137,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginTop
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginTop
         */
         public static final int ConstraintLayout_Layout_layout_goneMarginTop = 47;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_optimizationLevel}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_optimizationLevel}
           attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
 
 
@@ -10156,7 +10156,7 @@ containing a value of this type.
 <tr><td><code>basic</code></td><td>4</td><td></td></tr>
 <tr><td><code>chains</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_optimizationLevel
+          @attr name com.lycha.assignment.skyguide:layout_optimizationLevel
         */
         public static final int ConstraintLayout_Layout_layout_optimizationLevel = 48;
         /** Attributes that can be used with a ConstraintSet.
@@ -10187,48 +10187,48 @@ containing a value of this type.
            <tr><td><code>{@link #ConstraintSet_android_translationY android:translationY}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
            <tr><td><code>{@link #ConstraintSet_android_visibility android:visibility}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.lycha.example.augmentedreality:layout_constraintBaseline_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.lycha.example.augmentedreality:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.lycha.example.augmentedreality:layout_constraintBottom_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.lycha.example.augmentedreality:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.lycha.example.augmentedreality:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.lycha.example.augmentedreality:layout_constraintDimensionRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.lycha.example.augmentedreality:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.lycha.example.augmentedreality:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.lycha.example.augmentedreality:layout_constraintGuide_begin}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.lycha.example.augmentedreality:layout_constraintGuide_end}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.lycha.example.augmentedreality:layout_constraintGuide_percent}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.lycha.example.augmentedreality:layout_constraintHeight_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.lycha.example.augmentedreality:layout_constraintHeight_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.lycha.example.augmentedreality:layout_constraintHeight_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.lycha.example.augmentedreality:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.lycha.example.augmentedreality:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.lycha.example.augmentedreality:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.lycha.example.augmentedreality:layout_constraintLeft_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.lycha.example.augmentedreality:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.lycha.example.augmentedreality:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.lycha.example.augmentedreality:layout_constraintRight_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.lycha.example.augmentedreality:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.lycha.example.augmentedreality:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.lycha.example.augmentedreality:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.lycha.example.augmentedreality:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.lycha.example.augmentedreality:layout_constraintTop_creator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.lycha.example.augmentedreality:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.lycha.example.augmentedreality:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.lycha.example.augmentedreality:layout_constraintVertical_bias}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.lycha.example.augmentedreality:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.lycha.example.augmentedreality:layout_constraintVertical_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.lycha.example.augmentedreality:layout_constraintWidth_default}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.lycha.example.augmentedreality:layout_constraintWidth_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.lycha.example.augmentedreality:layout_constraintWidth_min}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.lycha.example.augmentedreality:layout_editor_absoluteX}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.lycha.example.augmentedreality:layout_editor_absoluteY}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.lycha.example.augmentedreality:layout_goneMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.lycha.example.augmentedreality:layout_goneMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.lycha.example.augmentedreality:layout_goneMarginLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.lycha.example.augmentedreality:layout_goneMarginRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.lycha.example.augmentedreality:layout_goneMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.lycha.example.augmentedreality:layout_goneMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.lycha.assignment.skyguide:layout_constraintBaseline_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.lycha.assignment.skyguide:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.lycha.assignment.skyguide:layout_constraintBottom_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.lycha.assignment.skyguide:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.lycha.assignment.skyguide:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.lycha.assignment.skyguide:layout_constraintDimensionRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.lycha.assignment.skyguide:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.lycha.assignment.skyguide:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.lycha.assignment.skyguide:layout_constraintGuide_begin}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.lycha.assignment.skyguide:layout_constraintGuide_end}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.lycha.assignment.skyguide:layout_constraintGuide_percent}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.lycha.assignment.skyguide:layout_constraintHeight_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.lycha.assignment.skyguide:layout_constraintHeight_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.lycha.assignment.skyguide:layout_constraintHeight_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.lycha.assignment.skyguide:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.lycha.assignment.skyguide:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.lycha.assignment.skyguide:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.lycha.assignment.skyguide:layout_constraintLeft_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.lycha.assignment.skyguide:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.lycha.assignment.skyguide:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.lycha.assignment.skyguide:layout_constraintRight_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.lycha.assignment.skyguide:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.lycha.assignment.skyguide:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.lycha.assignment.skyguide:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.lycha.assignment.skyguide:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.lycha.assignment.skyguide:layout_constraintTop_creator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.lycha.assignment.skyguide:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.lycha.assignment.skyguide:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.lycha.assignment.skyguide:layout_constraintVertical_bias}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.lycha.assignment.skyguide:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.lycha.assignment.skyguide:layout_constraintVertical_weight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.lycha.assignment.skyguide:layout_constraintWidth_default}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.lycha.assignment.skyguide:layout_constraintWidth_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.lycha.assignment.skyguide:layout_constraintWidth_min}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.lycha.assignment.skyguide:layout_editor_absoluteX}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.lycha.assignment.skyguide:layout_editor_absoluteY}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.lycha.assignment.skyguide:layout_goneMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.lycha.assignment.skyguide:layout_goneMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.lycha.assignment.skyguide:layout_goneMarginLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.lycha.assignment.skyguide:layout_goneMarginRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.lycha.assignment.skyguide:layout_goneMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.lycha.assignment.skyguide:layout_goneMarginTop}</code></td><td></td></tr>
            </table>
            @see #ConstraintSet_android_alpha
            @see #ConstraintSet_android_elevation
@@ -10446,7 +10446,7 @@ containing a value of this type.
         */
         public static final int ConstraintSet_android_visibility = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBaseline_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBaseline_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10456,11 +10456,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintBaseline_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintBaseline_creator
         */
         public static final int ConstraintSet_layout_constraintBaseline_creator = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBaseline_toBaselineOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBaseline_toBaselineOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10474,11 +10474,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBaseline_toBaselineOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBaseline_toBaselineOf
         */
         public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10488,11 +10488,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_creator
         */
         public static final int ConstraintSet_layout_constraintBottom_creator = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_toBottomOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10506,11 +10506,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_toBottomOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toBottomOf = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintBottom_toTopOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintBottom_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10524,11 +10524,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintBottom_toTopOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintBottom_toTopOf
         */
         public static final int ConstraintSet_layout_constraintBottom_toTopOf = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintDimensionRatio}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintDimensionRatio}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10538,11 +10538,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintDimensionRatio
+          @attr name com.lycha.assignment.skyguide:layout_constraintDimensionRatio
         */
         public static final int ConstraintSet_layout_constraintDimensionRatio = 27;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintEnd_toEndOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintEnd_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10556,11 +10556,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintEnd_toEndOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintEnd_toEndOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toEndOf = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintEnd_toStartOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintEnd_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10574,11 +10574,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintEnd_toStartOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintEnd_toStartOf
         */
         public static final int ConstraintSet_layout_constraintEnd_toStartOf = 29;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_begin}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_begin}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10590,11 +10590,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_begin
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_begin
         */
         public static final int ConstraintSet_layout_constraintGuide_begin = 30;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_end}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_end}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10606,11 +10606,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_end
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_end
         */
         public static final int ConstraintSet_layout_constraintGuide_end = 31;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintGuide_percent}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintGuide_percent}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10620,11 +10620,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintGuide_percent
+          @attr name com.lycha.assignment.skyguide:layout_constraintGuide_percent
         */
         public static final int ConstraintSet_layout_constraintGuide_percent = 32;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_default}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10637,11 +10637,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_default
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_default
         */
         public static final int ConstraintSet_layout_constraintHeight_default = 33;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_max}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10653,11 +10653,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_max
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_max
         */
         public static final int ConstraintSet_layout_constraintHeight_max = 34;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHeight_min}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHeight_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10669,11 +10669,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHeight_min
+          @attr name com.lycha.assignment.skyguide:layout_constraintHeight_min
         */
         public static final int ConstraintSet_layout_constraintHeight_min = 35;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_bias}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10683,11 +10683,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_bias
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_bias
         */
         public static final int ConstraintSet_layout_constraintHorizontal_bias = 36;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_chainStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10701,11 +10701,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_chainStyle
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_chainStyle
         */
         public static final int ConstraintSet_layout_constraintHorizontal_chainStyle = 37;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintHorizontal_weight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintHorizontal_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10715,11 +10715,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintHorizontal_weight
+          @attr name com.lycha.assignment.skyguide:layout_constraintHorizontal_weight
         */
         public static final int ConstraintSet_layout_constraintHorizontal_weight = 38;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10729,11 +10729,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_creator
         */
         public static final int ConstraintSet_layout_constraintLeft_creator = 39;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_toLeftOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10747,11 +10747,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_toLeftOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toLeftOf = 40;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintLeft_toRightOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintLeft_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10765,11 +10765,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintLeft_toRightOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintLeft_toRightOf
         */
         public static final int ConstraintSet_layout_constraintLeft_toRightOf = 41;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10779,11 +10779,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_creator
         */
         public static final int ConstraintSet_layout_constraintRight_creator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_toLeftOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_toLeftOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10797,11 +10797,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_toLeftOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_toLeftOf
         */
         public static final int ConstraintSet_layout_constraintRight_toLeftOf = 43;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintRight_toRightOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintRight_toRightOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10815,11 +10815,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintRight_toRightOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintRight_toRightOf
         */
         public static final int ConstraintSet_layout_constraintRight_toRightOf = 44;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintStart_toEndOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintStart_toEndOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10833,11 +10833,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintStart_toEndOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintStart_toEndOf
         */
         public static final int ConstraintSet_layout_constraintStart_toEndOf = 45;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintStart_toStartOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintStart_toStartOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10851,11 +10851,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintStart_toStartOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintStart_toStartOf
         */
         public static final int ConstraintSet_layout_constraintStart_toStartOf = 46;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_creator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_creator}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10865,11 +10865,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_creator
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_creator
         */
         public static final int ConstraintSet_layout_constraintTop_creator = 47;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_toBottomOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_toBottomOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10883,11 +10883,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_toBottomOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_toBottomOf
         */
         public static final int ConstraintSet_layout_constraintTop_toBottomOf = 48;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintTop_toTopOf}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintTop_toTopOf}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10901,11 +10901,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>parent</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintTop_toTopOf
+          @attr name com.lycha.assignment.skyguide:layout_constraintTop_toTopOf
         */
         public static final int ConstraintSet_layout_constraintTop_toTopOf = 49;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_bias}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_bias}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10915,11 +10915,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_bias
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_bias
         */
         public static final int ConstraintSet_layout_constraintVertical_bias = 50;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_chainStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_chainStyle}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10933,11 +10933,11 @@ containing a value of this type.
 <tr><td><code>spread_inside</code></td><td>1</td><td></td></tr>
 <tr><td><code>packed</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_chainStyle
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_chainStyle
         */
         public static final int ConstraintSet_layout_constraintVertical_chainStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintVertical_weight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintVertical_weight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10947,11 +10947,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintVertical_weight
+          @attr name com.lycha.assignment.skyguide:layout_constraintVertical_weight
         */
         public static final int ConstraintSet_layout_constraintVertical_weight = 52;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_default}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_default}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10964,11 +10964,11 @@ containing a value of this type.
 <tr><td><code>spread</code></td><td>0</td><td></td></tr>
 <tr><td><code>wrap</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_default
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_default
         */
         public static final int ConstraintSet_layout_constraintWidth_default = 53;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_max}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_max}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10980,11 +10980,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_max
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_max
         */
         public static final int ConstraintSet_layout_constraintWidth_max = 54;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_constraintWidth_min}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_constraintWidth_min}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -10996,11 +10996,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_constraintWidth_min
+          @attr name com.lycha.assignment.skyguide:layout_constraintWidth_min
         */
         public static final int ConstraintSet_layout_constraintWidth_min = 55;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_editor_absoluteX}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_editor_absoluteX}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11012,11 +11012,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_editor_absoluteX
+          @attr name com.lycha.assignment.skyguide:layout_editor_absoluteX
         */
         public static final int ConstraintSet_layout_editor_absoluteX = 56;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_editor_absoluteY}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_editor_absoluteY}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11028,11 +11028,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_editor_absoluteY
+          @attr name com.lycha.assignment.skyguide:layout_editor_absoluteY
         */
         public static final int ConstraintSet_layout_editor_absoluteY = 57;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginBottom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginBottom}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11044,11 +11044,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginBottom
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginBottom
         */
         public static final int ConstraintSet_layout_goneMarginBottom = 58;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginEnd}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11060,11 +11060,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginEnd
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginEnd
         */
         public static final int ConstraintSet_layout_goneMarginEnd = 59;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginLeft}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginLeft}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11076,11 +11076,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginLeft
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginLeft
         */
         public static final int ConstraintSet_layout_goneMarginLeft = 60;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginRight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginRight}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11092,11 +11092,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginRight
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginRight
         */
         public static final int ConstraintSet_layout_goneMarginRight = 61;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginStart}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11108,11 +11108,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginStart
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginStart
         */
         public static final int ConstraintSet_layout_goneMarginStart = 62;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_goneMarginTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_goneMarginTop}
           attribute's value can be found in the {@link #ConstraintSet} array.
 
 
@@ -11124,7 +11124,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_goneMarginTop
+          @attr name com.lycha.assignment.skyguide:layout_goneMarginTop
         */
         public static final int ConstraintSet_layout_goneMarginTop = 63;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -11133,8 +11133,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.lycha.example.augmentedreality:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.lycha.example.augmentedreality:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.lycha.assignment.skyguide:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.lycha.assignment.skyguide:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -11143,23 +11143,23 @@ containing a value of this type.
             0x7f01010f, 0x7f010110
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:keylines
+          @attr name com.lycha.assignment.skyguide:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:statusBarBackground
+          @attr name com.lycha.assignment.skyguide:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -11169,12 +11169,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.lycha.example.augmentedreality:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.lycha.example.augmentedreality:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.lycha.example.augmentedreality:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.lycha.example.augmentedreality:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.lycha.example.augmentedreality:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.lycha.example.augmentedreality:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.lycha.assignment.skyguide:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.lycha.assignment.skyguide:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.lycha.assignment.skyguide:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.lycha.assignment.skyguide:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.lycha.assignment.skyguide:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.lycha.assignment.skyguide:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -11195,17 +11195,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:layout_anchor
+          @attr name com.lycha.assignment.skyguide:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -11230,11 +11230,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_anchorGravity
+          @attr name com.lycha.assignment.skyguide:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -11244,11 +11244,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_behavior
+          @attr name com.lycha.assignment.skyguide:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -11267,11 +11267,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_dodgeInsetEdges
+          @attr name com.lycha.assignment.skyguide:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -11289,11 +11289,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:layout_insetEdge
+          @attr name com.lycha.assignment.skyguide:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -11303,7 +11303,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layout_keyline
+          @attr name com.lycha.assignment.skyguide:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a Corpus.
@@ -11312,14 +11312,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Corpus_contentProviderUri com.lycha.example.augmentedreality:contentProviderUri}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_corpusId com.lycha.example.augmentedreality:corpusId}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_corpusVersion com.lycha.example.augmentedreality:corpusVersion}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.lycha.example.augmentedreality:documentMaxAgeSecs}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_perAccountTemplate com.lycha.example.augmentedreality:perAccountTemplate}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_schemaOrgType com.lycha.example.augmentedreality:schemaOrgType}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_semanticallySearchable com.lycha.example.augmentedreality:semanticallySearchable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Corpus_trimmable com.lycha.example.augmentedreality:trimmable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_contentProviderUri com.lycha.assignment.skyguide:contentProviderUri}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_corpusId com.lycha.assignment.skyguide:corpusId}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_corpusVersion com.lycha.assignment.skyguide:corpusVersion}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.lycha.assignment.skyguide:documentMaxAgeSecs}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_perAccountTemplate com.lycha.assignment.skyguide:perAccountTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_schemaOrgType com.lycha.assignment.skyguide:schemaOrgType}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_semanticallySearchable com.lycha.assignment.skyguide:semanticallySearchable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Corpus_trimmable com.lycha.assignment.skyguide:trimmable}</code></td><td></td></tr>
            </table>
            @see #Corpus_contentProviderUri
            @see #Corpus_corpusId
@@ -11335,7 +11335,7 @@ containing a value of this type.
             0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentProviderUri}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentProviderUri}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11345,11 +11345,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentProviderUri
+          @attr name com.lycha.assignment.skyguide:contentProviderUri
         */
         public static final int Corpus_contentProviderUri = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#corpusId}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#corpusId}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11359,11 +11359,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:corpusId
+          @attr name com.lycha.assignment.skyguide:corpusId
         */
         public static final int Corpus_corpusId = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#corpusVersion}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#corpusVersion}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11373,11 +11373,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:corpusVersion
+          @attr name com.lycha.assignment.skyguide:corpusVersion
         */
         public static final int Corpus_corpusVersion = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#documentMaxAgeSecs}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#documentMaxAgeSecs}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11387,11 +11387,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:documentMaxAgeSecs
+          @attr name com.lycha.assignment.skyguide:documentMaxAgeSecs
         */
         public static final int Corpus_documentMaxAgeSecs = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#perAccountTemplate}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#perAccountTemplate}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11401,11 +11401,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:perAccountTemplate
+          @attr name com.lycha.assignment.skyguide:perAccountTemplate
         */
         public static final int Corpus_perAccountTemplate = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#schemaOrgType}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#schemaOrgType}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11415,11 +11415,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:schemaOrgType
+          @attr name com.lycha.assignment.skyguide:schemaOrgType
         */
         public static final int Corpus_schemaOrgType = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#semanticallySearchable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#semanticallySearchable}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11429,11 +11429,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:semanticallySearchable
+          @attr name com.lycha.assignment.skyguide:semanticallySearchable
         */
         public static final int Corpus_semanticallySearchable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#trimmable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#trimmable}
           attribute's value can be found in the {@link #Corpus} array.
 
 
@@ -11443,7 +11443,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:trimmable
+          @attr name com.lycha.assignment.skyguide:trimmable
         */
         public static final int Corpus_trimmable = 3;
         /** Attributes that can be used with a CustomCastTheme.
@@ -11452,9 +11452,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.lycha.example.augmentedreality:castExpandedControllerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.lycha.example.augmentedreality:castIntroOverlayStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.lycha.example.augmentedreality:castMiniControllerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.lycha.assignment.skyguide:castExpandedControllerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.lycha.assignment.skyguide:castIntroOverlayStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.lycha.assignment.skyguide:castMiniControllerStyle}</code></td><td></td></tr>
            </table>
            @see #CustomCastTheme_castExpandedControllerStyle
            @see #CustomCastTheme_castIntroOverlayStyle
@@ -11464,33 +11464,33 @@ containing a value of this type.
             0x7f01011f, 0x7f010120, 0x7f010121
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castExpandedControllerStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castExpandedControllerStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castExpandedControllerStyle
+          @attr name com.lycha.assignment.skyguide:castExpandedControllerStyle
         */
         public static final int CustomCastTheme_castExpandedControllerStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castIntroOverlayStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castIntroOverlayStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castIntroOverlayStyle
+          @attr name com.lycha.assignment.skyguide:castIntroOverlayStyle
         */
         public static final int CustomCastTheme_castIntroOverlayStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#castMiniControllerStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#castMiniControllerStyle}
           attribute's value can be found in the {@link #CustomCastTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:castMiniControllerStyle
+          @attr name com.lycha.assignment.skyguide:castMiniControllerStyle
         */
         public static final int CustomCastTheme_castMiniControllerStyle = 1;
         /** Attributes that can be used with a CustomWalletTheme.
@@ -11499,8 +11499,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.lycha.example.augmentedreality:toolbarTextColorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.lycha.example.augmentedreality:windowTransitionStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.lycha.assignment.skyguide:toolbarTextColorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.lycha.assignment.skyguide:windowTransitionStyle}</code></td><td></td></tr>
            </table>
            @see #CustomWalletTheme_toolbarTextColorStyle
            @see #CustomWalletTheme_windowTransitionStyle
@@ -11509,7 +11509,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010122, 0x7f010123
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#toolbarTextColorStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#toolbarTextColorStyle}
           attribute's value can be found in the {@link #CustomWalletTheme} array.
 
 
@@ -11522,11 +11522,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>dark</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:toolbarTextColorStyle
+          @attr name com.lycha.assignment.skyguide:toolbarTextColorStyle
         */
         public static final int CustomWalletTheme_toolbarTextColorStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#windowTransitionStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#windowTransitionStyle}
           attribute's value can be found in the {@link #CustomWalletTheme} array.
 
 
@@ -11539,7 +11539,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>slide</code></td><td>1</td><td></td></tr>
 <tr><td><code>none</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:windowTransitionStyle
+          @attr name com.lycha.assignment.skyguide:windowTransitionStyle
         */
         public static final int CustomWalletTheme_windowTransitionStyle = 0;
         /** Attributes that can be used with a DesignTheme.
@@ -11548,9 +11548,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.lycha.example.augmentedreality:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.lycha.example.augmentedreality:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.lycha.example.augmentedreality:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.lycha.assignment.skyguide:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.lycha.assignment.skyguide:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.lycha.assignment.skyguide:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -11560,27 +11560,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010124, 0x7f010125, 0x7f010126
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:bottomSheetDialogTheme
+          @attr name com.lycha.assignment.skyguide:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:bottomSheetStyle
+          @attr name com.lycha.assignment.skyguide:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -11591,7 +11591,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:textColorError
+          @attr name com.lycha.assignment.skyguide:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -11600,14 +11600,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.lycha.example.augmentedreality:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.lycha.example.augmentedreality:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.lycha.example.augmentedreality:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.lycha.example.augmentedreality:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.lycha.example.augmentedreality:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.lycha.example.augmentedreality:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.lycha.example.augmentedreality:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.lycha.example.augmentedreality:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.lycha.assignment.skyguide:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.lycha.assignment.skyguide:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.lycha.assignment.skyguide:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.lycha.assignment.skyguide:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.lycha.assignment.skyguide:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.lycha.assignment.skyguide:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.lycha.assignment.skyguide:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.lycha.assignment.skyguide:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -11623,7 +11623,7 @@ containing a value of this type.
             0x7f01012b, 0x7f01012c, 0x7f01012d, 0x7f01012e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11635,11 +11635,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:arrowHeadLength
+          @attr name com.lycha.assignment.skyguide:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11651,11 +11651,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:arrowShaftLength
+          @attr name com.lycha.assignment.skyguide:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11667,11 +11667,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:barLength
+          @attr name com.lycha.assignment.skyguide:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#color}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11682,11 +11682,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:color
+          @attr name com.lycha.assignment.skyguide:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11698,11 +11698,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:drawableSize
+          @attr name com.lycha.assignment.skyguide:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11714,11 +11714,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:gapBetweenBars
+          @attr name com.lycha.assignment.skyguide:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11728,11 +11728,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:spinBars
+          @attr name com.lycha.assignment.skyguide:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11744,7 +11744,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:thickness
+          @attr name com.lycha.assignment.skyguide:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FeatureParam.
@@ -11753,8 +11753,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FeatureParam_paramName com.lycha.example.augmentedreality:paramName}</code></td><td></td></tr>
-           <tr><td><code>{@link #FeatureParam_paramValue com.lycha.example.augmentedreality:paramValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #FeatureParam_paramName com.lycha.assignment.skyguide:paramName}</code></td><td></td></tr>
+           <tr><td><code>{@link #FeatureParam_paramValue com.lycha.assignment.skyguide:paramValue}</code></td><td></td></tr>
            </table>
            @see #FeatureParam_paramName
            @see #FeatureParam_paramValue
@@ -11763,7 +11763,7 @@ containing a value of this type.
             0x7f01012f, 0x7f010130
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paramName}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paramName}
           attribute's value can be found in the {@link #FeatureParam} array.
 
 
@@ -11773,11 +11773,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paramName
+          @attr name com.lycha.assignment.skyguide:paramName
         */
         public static final int FeatureParam_paramName = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paramValue}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paramValue}
           attribute's value can be found in the {@link #FeatureParam} array.
 
 
@@ -11787,7 +11787,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paramValue
+          @attr name com.lycha.assignment.skyguide:paramValue
         */
         public static final int FeatureParam_paramValue = 1;
         /** Attributes that can be used with a FloatingActionButton.
@@ -11796,14 +11796,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.lycha.example.augmentedreality:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.lycha.example.augmentedreality:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.lycha.example.augmentedreality:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.lycha.example.augmentedreality:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.lycha.example.augmentedreality:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.lycha.example.augmentedreality:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.lycha.example.augmentedreality:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.lycha.assignment.skyguide:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.lycha.assignment.skyguide:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.lycha.assignment.skyguide:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.lycha.assignment.skyguide:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.lycha.assignment.skyguide:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.lycha.assignment.skyguide:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.lycha.assignment.skyguide:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -11819,7 +11819,7 @@ containing a value of this type.
             0x7f010134, 0x7f010135, 0x7f0101d1, 0x7f0101d2
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11830,11 +11830,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:backgroundTint
+          @attr name com.lycha.assignment.skyguide:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11850,11 +11850,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:backgroundTintMode
+          @attr name com.lycha.assignment.skyguide:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11866,11 +11866,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:borderWidth
+          @attr name com.lycha.assignment.skyguide:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11882,11 +11882,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11900,11 +11900,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:fabSize
+          @attr name com.lycha.assignment.skyguide:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11916,11 +11916,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:pressedTranslationZ
+          @attr name com.lycha.assignment.skyguide:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11931,11 +11931,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:rippleColor
+          @attr name com.lycha.assignment.skyguide:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11945,7 +11945,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:useCompatPadding
+          @attr name com.lycha.assignment.skyguide:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -11954,7 +11954,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.lycha.example.augmentedreality:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.lycha.assignment.skyguide:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -11962,7 +11962,7 @@ containing a value of this type.
             0x7f010136
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -11972,7 +11972,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:behavior_autoHide
+          @attr name com.lycha.assignment.skyguide:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -11983,7 +11983,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.lycha.example.augmentedreality:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.lycha.assignment.skyguide:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -12005,7 +12005,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -12015,7 +12015,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:foregroundInsidePadding
+          @attr name com.lycha.assignment.skyguide:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GlobalSearch.
@@ -12024,12 +12024,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.lycha.example.augmentedreality:defaultIntentAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.lycha.example.augmentedreality:defaultIntentActivity}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_defaultIntentData com.lycha.example.augmentedreality:defaultIntentData}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_searchEnabled com.lycha.example.augmentedreality:searchEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_searchLabel com.lycha.example.augmentedreality:searchLabel}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearch_settingsDescription com.lycha.example.augmentedreality:settingsDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.lycha.assignment.skyguide:defaultIntentAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.lycha.assignment.skyguide:defaultIntentActivity}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_defaultIntentData com.lycha.assignment.skyguide:defaultIntentData}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_searchEnabled com.lycha.assignment.skyguide:searchEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_searchLabel com.lycha.assignment.skyguide:searchLabel}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearch_settingsDescription com.lycha.assignment.skyguide:settingsDescription}</code></td><td></td></tr>
            </table>
            @see #GlobalSearch_defaultIntentAction
            @see #GlobalSearch_defaultIntentActivity
@@ -12043,7 +12043,7 @@ containing a value of this type.
             0x7f01013c, 0x7f01013d
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#defaultIntentAction}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#defaultIntentAction}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12053,11 +12053,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:defaultIntentAction
+          @attr name com.lycha.assignment.skyguide:defaultIntentAction
         */
         public static final int GlobalSearch_defaultIntentAction = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#defaultIntentActivity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#defaultIntentActivity}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12067,11 +12067,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:defaultIntentActivity
+          @attr name com.lycha.assignment.skyguide:defaultIntentActivity
         */
         public static final int GlobalSearch_defaultIntentActivity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#defaultIntentData}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#defaultIntentData}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12081,11 +12081,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:defaultIntentData
+          @attr name com.lycha.assignment.skyguide:defaultIntentData
         */
         public static final int GlobalSearch_defaultIntentData = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#searchEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#searchEnabled}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12095,11 +12095,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:searchEnabled
+          @attr name com.lycha.assignment.skyguide:searchEnabled
         */
         public static final int GlobalSearch_searchEnabled = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#searchLabel}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#searchLabel}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12109,11 +12109,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:searchLabel
+          @attr name com.lycha.assignment.skyguide:searchLabel
         */
         public static final int GlobalSearch_searchLabel = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#settingsDescription}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#settingsDescription}
           attribute's value can be found in the {@link #GlobalSearch} array.
 
 
@@ -12123,7 +12123,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:settingsDescription
+          @attr name com.lycha.assignment.skyguide:settingsDescription
         */
         public static final int GlobalSearch_settingsDescription = 2;
         /** Attributes that can be used with a GlobalSearchCorpus.
@@ -12132,7 +12132,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.lycha.example.augmentedreality:allowShortcuts}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.lycha.assignment.skyguide:allowShortcuts}</code></td><td></td></tr>
            </table>
            @see #GlobalSearchCorpus_allowShortcuts
          */
@@ -12140,7 +12140,7 @@ containing a value of this type.
             0x7f01013e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#allowShortcuts}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#allowShortcuts}
           attribute's value can be found in the {@link #GlobalSearchCorpus} array.
 
 
@@ -12150,7 +12150,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:allowShortcuts
+          @attr name com.lycha.assignment.skyguide:allowShortcuts
         */
         public static final int GlobalSearchCorpus_allowShortcuts = 0;
         /** Attributes that can be used with a GlobalSearchSection.
@@ -12159,8 +12159,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalSearchSection_sectionContent com.lycha.example.augmentedreality:sectionContent}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalSearchSection_sectionType com.lycha.example.augmentedreality:sectionType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchSection_sectionContent com.lycha.assignment.skyguide:sectionContent}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalSearchSection_sectionType com.lycha.assignment.skyguide:sectionType}</code></td><td></td></tr>
            </table>
            @see #GlobalSearchSection_sectionContent
            @see #GlobalSearchSection_sectionType
@@ -12169,7 +12169,7 @@ containing a value of this type.
             0x7f01013f, 0x7f010140
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sectionContent}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sectionContent}
           attribute's value can be found in the {@link #GlobalSearchSection} array.
 
 
@@ -12179,11 +12179,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:sectionContent
+          @attr name com.lycha.assignment.skyguide:sectionContent
         */
         public static final int GlobalSearchSection_sectionContent = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sectionType}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sectionType}
           attribute's value can be found in the {@link #GlobalSearchSection} array.
 
 
@@ -12204,7 +12204,7 @@ containing a value of this type.
 <tr><td><code>intent_activity</code></td><td>8</td><td></td></tr>
 <tr><td><code>thing_proto</code></td><td>9</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:sectionType
+          @attr name com.lycha.assignment.skyguide:sectionType
         */
         public static final int GlobalSearchSection_sectionType = 0;
         /** Attributes that can be used with a IMECorpus.
@@ -12213,12 +12213,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #IMECorpus_inputEnabled com.lycha.example.augmentedreality:inputEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_sourceClass com.lycha.example.augmentedreality:sourceClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_toAddressesSection com.lycha.example.augmentedreality:toAddressesSection}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputSection com.lycha.example.augmentedreality:userInputSection}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputTag com.lycha.example.augmentedreality:userInputTag}</code></td><td></td></tr>
-           <tr><td><code>{@link #IMECorpus_userInputValue com.lycha.example.augmentedreality:userInputValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_inputEnabled com.lycha.assignment.skyguide:inputEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_sourceClass com.lycha.assignment.skyguide:sourceClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_toAddressesSection com.lycha.assignment.skyguide:toAddressesSection}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputSection com.lycha.assignment.skyguide:userInputSection}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputTag com.lycha.assignment.skyguide:userInputTag}</code></td><td></td></tr>
+           <tr><td><code>{@link #IMECorpus_userInputValue com.lycha.assignment.skyguide:userInputValue}</code></td><td></td></tr>
            </table>
            @see #IMECorpus_inputEnabled
            @see #IMECorpus_sourceClass
@@ -12232,7 +12232,7 @@ containing a value of this type.
             0x7f010145, 0x7f010146
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#inputEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#inputEnabled}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12242,11 +12242,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:inputEnabled
+          @attr name com.lycha.assignment.skyguide:inputEnabled
         */
         public static final int IMECorpus_inputEnabled = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sourceClass}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sourceClass}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12260,11 +12260,11 @@ containing a value of this type.
 <tr><td><code>contact</code></td><td>1</td><td></td></tr>
 <tr><td><code>instant_message</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:sourceClass
+          @attr name com.lycha.assignment.skyguide:sourceClass
         */
         public static final int IMECorpus_sourceClass = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#toAddressesSection}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#toAddressesSection}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12274,11 +12274,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:toAddressesSection
+          @attr name com.lycha.assignment.skyguide:toAddressesSection
         */
         public static final int IMECorpus_toAddressesSection = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#userInputSection}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#userInputSection}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12288,11 +12288,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:userInputSection
+          @attr name com.lycha.assignment.skyguide:userInputSection
         */
         public static final int IMECorpus_userInputSection = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#userInputTag}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#userInputTag}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12302,11 +12302,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:userInputTag
+          @attr name com.lycha.assignment.skyguide:userInputTag
         */
         public static final int IMECorpus_userInputTag = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#userInputValue}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#userInputValue}
           attribute's value can be found in the {@link #IMECorpus} array.
 
 
@@ -12316,7 +12316,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:userInputValue
+          @attr name com.lycha.assignment.skyguide:userInputValue
         */
         public static final int IMECorpus_userInputValue = 4;
         /** Attributes that can be used with a LinearConstraintLayout.
@@ -12349,10 +12349,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.lycha.example.augmentedreality:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.lycha.example.augmentedreality:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.lycha.example.augmentedreality:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.lycha.example.augmentedreality:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.lycha.assignment.skyguide:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.lycha.assignment.skyguide:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.lycha.assignment.skyguide:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.lycha.assignment.skyguide:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -12400,17 +12400,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:divider
+          @attr name com.lycha.assignment.skyguide:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12422,11 +12422,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:dividerPadding
+          @attr name com.lycha.assignment.skyguide:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12436,11 +12436,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:measureWithLargestChild
+          @attr name com.lycha.assignment.skyguide:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12455,7 +12455,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:showDividers
+          @attr name com.lycha.assignment.skyguide:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -12534,9 +12534,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.lycha.example.augmentedreality:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.lycha.example.augmentedreality:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.lycha.example.augmentedreality:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.lycha.assignment.skyguide:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.lycha.assignment.skyguide:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.lycha.assignment.skyguide:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -12546,7 +12546,7 @@ containing a value of this type.
             0x7f01014a, 0x7f01014b, 0x7f01014c
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -12556,11 +12556,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:circleCrop
+          @attr name com.lycha.assignment.skyguide:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -12570,11 +12570,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:imageAspectRatio
+          @attr name com.lycha.assignment.skyguide:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -12588,7 +12588,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:imageAspectRatioAdjust
+          @attr name com.lycha.assignment.skyguide:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
@@ -12597,29 +12597,29 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_ambientEnabled com.lycha.example.augmentedreality:ambientEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing com.lycha.example.augmentedreality:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.lycha.example.augmentedreality:cameraMaxZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.lycha.example.augmentedreality:cameraMinZoomPreference}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.lycha.example.augmentedreality:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.lycha.example.augmentedreality:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt com.lycha.example.augmentedreality:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom com.lycha.example.augmentedreality:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.lycha.example.augmentedreality:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.lycha.example.augmentedreality:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.lycha.example.augmentedreality:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.lycha.example.augmentedreality:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_liteMode com.lycha.example.augmentedreality:liteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType com.lycha.example.augmentedreality:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass com.lycha.example.augmentedreality:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.lycha.example.augmentedreality:uiMapToolbar}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.lycha.example.augmentedreality:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.lycha.example.augmentedreality:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.lycha.example.augmentedreality:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls com.lycha.example.augmentedreality:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.lycha.example.augmentedreality:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.lycha.example.augmentedreality:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.lycha.example.augmentedreality:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_ambientEnabled com.lycha.assignment.skyguide:ambientEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing com.lycha.assignment.skyguide:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.lycha.assignment.skyguide:cameraMaxZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.lycha.assignment.skyguide:cameraMinZoomPreference}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.lycha.assignment.skyguide:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.lycha.assignment.skyguide:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt com.lycha.assignment.skyguide:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom com.lycha.assignment.skyguide:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.lycha.assignment.skyguide:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.lycha.assignment.skyguide:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.lycha.assignment.skyguide:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.lycha.assignment.skyguide:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_liteMode com.lycha.assignment.skyguide:liteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType com.lycha.assignment.skyguide:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass com.lycha.assignment.skyguide:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.lycha.assignment.skyguide:uiMapToolbar}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.lycha.assignment.skyguide:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.lycha.assignment.skyguide:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.lycha.assignment.skyguide:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls com.lycha.assignment.skyguide:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.lycha.assignment.skyguide:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.lycha.assignment.skyguide:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.lycha.assignment.skyguide:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_ambientEnabled
            @see #MapAttrs_cameraBearing
@@ -12654,7 +12654,7 @@ containing a value of this type.
             0x7f010161, 0x7f010162, 0x7f010163
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#ambientEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#ambientEnabled}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12664,11 +12664,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:ambientEnabled
+          @attr name com.lycha.assignment.skyguide:ambientEnabled
         */
         public static final int MapAttrs_ambientEnabled = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12678,11 +12678,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraBearing
+          @attr name com.lycha.assignment.skyguide:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraMaxZoomPreference}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraMaxZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12692,11 +12692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraMaxZoomPreference
+          @attr name com.lycha.assignment.skyguide:cameraMaxZoomPreference
         */
         public static final int MapAttrs_cameraMaxZoomPreference = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraMinZoomPreference}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraMinZoomPreference}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12706,11 +12706,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraMinZoomPreference
+          @attr name com.lycha.assignment.skyguide:cameraMinZoomPreference
         */
         public static final int MapAttrs_cameraMinZoomPreference = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12720,11 +12720,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraTargetLat
+          @attr name com.lycha.assignment.skyguide:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12734,11 +12734,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraTargetLng
+          @attr name com.lycha.assignment.skyguide:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12748,11 +12748,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraTilt
+          @attr name com.lycha.assignment.skyguide:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12762,11 +12762,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:cameraZoom
+          @attr name com.lycha.assignment.skyguide:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#latLngBoundsNorthEastLatitude}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#latLngBoundsNorthEastLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12776,11 +12776,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:latLngBoundsNorthEastLatitude
+          @attr name com.lycha.assignment.skyguide:latLngBoundsNorthEastLatitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLatitude = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#latLngBoundsNorthEastLongitude}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#latLngBoundsNorthEastLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12790,11 +12790,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:latLngBoundsNorthEastLongitude
+          @attr name com.lycha.assignment.skyguide:latLngBoundsNorthEastLongitude
         */
         public static final int MapAttrs_latLngBoundsNorthEastLongitude = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#latLngBoundsSouthWestLatitude}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#latLngBoundsSouthWestLatitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12804,11 +12804,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:latLngBoundsSouthWestLatitude
+          @attr name com.lycha.assignment.skyguide:latLngBoundsSouthWestLatitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLatitude = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#latLngBoundsSouthWestLongitude}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#latLngBoundsSouthWestLongitude}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12818,11 +12818,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:latLngBoundsSouthWestLongitude
+          @attr name com.lycha.assignment.skyguide:latLngBoundsSouthWestLongitude
         */
         public static final int MapAttrs_latLngBoundsSouthWestLongitude = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#liteMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12832,11 +12832,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:liteMode
+          @attr name com.lycha.assignment.skyguide:liteMode
         */
         public static final int MapAttrs_liteMode = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#mapType}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12852,11 +12852,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:mapType
+          @attr name com.lycha.assignment.skyguide:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12866,11 +12866,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiCompass
+          @attr name com.lycha.assignment.skyguide:uiCompass
         */
         public static final int MapAttrs_uiCompass = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiMapToolbar}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12880,11 +12880,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiMapToolbar
+          @attr name com.lycha.assignment.skyguide:uiMapToolbar
         */
         public static final int MapAttrs_uiMapToolbar = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12894,11 +12894,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiRotateGestures
+          @attr name com.lycha.assignment.skyguide:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12908,11 +12908,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiScrollGestures
+          @attr name com.lycha.assignment.skyguide:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12922,11 +12922,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiTiltGestures
+          @attr name com.lycha.assignment.skyguide:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12936,11 +12936,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiZoomControls
+          @attr name com.lycha.assignment.skyguide:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12950,11 +12950,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:uiZoomGestures
+          @attr name com.lycha.assignment.skyguide:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12964,11 +12964,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:useViewLifecycle
+          @attr name com.lycha.assignment.skyguide:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -12978,7 +12978,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:zOrderOnTop
+          @attr name com.lycha.assignment.skyguide:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 14;
         /** Attributes that can be used with a MediaRouteButton.
@@ -12989,8 +12989,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint com.lycha.example.augmentedreality:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.lycha.example.augmentedreality:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint com.lycha.assignment.skyguide:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.lycha.assignment.skyguide:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -13013,7 +13013,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -13024,17 +13024,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:buttonTint
+          @attr name com.lycha.assignment.skyguide:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:externalRouteEnabledDrawable
+          @attr name com.lycha.assignment.skyguide:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 3;
         /** Attributes that can be used with a MenuGroup.
@@ -13103,9 +13103,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.lycha.example.augmentedreality:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.lycha.example.augmentedreality:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.lycha.example.augmentedreality:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.lycha.assignment.skyguide:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.lycha.assignment.skyguide:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.lycha.assignment.skyguide:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -13119,7 +13119,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.lycha.example.augmentedreality:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.lycha.assignment.skyguide:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -13147,17 +13147,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010168
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:actionLayout
+          @attr name com.lycha.assignment.skyguide:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -13167,11 +13167,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:actionProviderClass
+          @attr name com.lycha.assignment.skyguide:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -13181,7 +13181,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:actionViewClass
+          @attr name com.lycha.assignment.skyguide:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -13263,7 +13263,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -13279,7 +13279,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:showAsAction
+          @attr name com.lycha.assignment.skyguide:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -13295,8 +13295,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.lycha.example.augmentedreality:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.lycha.example.augmentedreality:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.lycha.assignment.skyguide:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.lycha.assignment.skyguide:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -13356,7 +13356,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -13366,17 +13366,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:preserveIconSpacing
+          @attr name com.lycha.assignment.skyguide:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:subMenuArrow
+          @attr name com.lycha.assignment.skyguide:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -13388,13 +13388,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.lycha.example.augmentedreality:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.lycha.example.augmentedreality:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.lycha.example.augmentedreality:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.lycha.example.augmentedreality:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.lycha.example.augmentedreality:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.lycha.example.augmentedreality:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.lycha.assignment.skyguide:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.lycha.assignment.skyguide:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.lycha.assignment.skyguide:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.lycha.assignment.skyguide:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.lycha.assignment.skyguide:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.lycha.assignment.skyguide:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -13431,7 +13431,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13443,31 +13443,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:headerLayout
+          @attr name com.lycha.assignment.skyguide:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:itemBackground
+          @attr name com.lycha.assignment.skyguide:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13478,21 +13478,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:itemIconTint
+          @attr name com.lycha.assignment.skyguide:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:itemTextAppearance
+          @attr name com.lycha.assignment.skyguide:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -13503,17 +13503,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:itemTextColor
+          @attr name com.lycha.assignment.skyguide:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:menu
+          @attr name com.lycha.assignment.skyguide:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -13524,7 +13524,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.lycha.example.augmentedreality:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.lycha.assignment.skyguide:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -13546,7 +13546,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -13556,7 +13556,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:overlapAnchor
+          @attr name com.lycha.assignment.skyguide:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -13565,7 +13565,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.lycha.example.augmentedreality:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.lycha.assignment.skyguide:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -13573,7 +13573,7 @@ containing a value of this type.
             0x7f010172
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -13583,7 +13583,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:state_above_anchor
+          @attr name com.lycha.assignment.skyguide:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -13592,8 +13592,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.lycha.example.augmentedreality:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.lycha.example.augmentedreality:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.lycha.assignment.skyguide:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.lycha.assignment.skyguide:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -13602,7 +13602,7 @@ containing a value of this type.
             0x7f010173, 0x7f010174
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -13614,11 +13614,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paddingBottomNoButtons
+          @attr name com.lycha.assignment.skyguide:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -13630,7 +13630,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paddingTopNoTitle
+          @attr name com.lycha.assignment.skyguide:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -13641,10 +13641,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.lycha.example.augmentedreality:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.lycha.example.augmentedreality:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.lycha.example.augmentedreality:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.lycha.example.augmentedreality:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.lycha.assignment.skyguide:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.lycha.assignment.skyguide:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.lycha.assignment.skyguide:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.lycha.assignment.skyguide:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -13670,7 +13670,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13680,11 +13680,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:layoutManager
+          @attr name com.lycha.assignment.skyguide:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13694,11 +13694,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:reverseLayout
+          @attr name com.lycha.assignment.skyguide:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13708,11 +13708,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:spanCount
+          @attr name com.lycha.assignment.skyguide:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13722,7 +13722,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:stackFromEnd
+          @attr name com.lycha.assignment.skyguide:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -13731,7 +13731,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.lycha.example.augmentedreality:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.lycha.assignment.skyguide:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -13739,7 +13739,7 @@ containing a value of this type.
             0x7f010179
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -13747,7 +13747,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:insetForeground
+          @attr name com.lycha.assignment.skyguide:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -13756,7 +13756,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.lycha.example.augmentedreality:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.lycha.assignment.skyguide:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -13764,7 +13764,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01017a
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -13776,7 +13776,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:behavior_overlapTop
+          @attr name com.lycha.assignment.skyguide:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -13789,19 +13789,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.lycha.example.augmentedreality:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.lycha.example.augmentedreality:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.lycha.example.augmentedreality:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.lycha.example.augmentedreality:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.lycha.example.augmentedreality:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.lycha.example.augmentedreality:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.lycha.example.augmentedreality:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.lycha.example.augmentedreality:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.lycha.example.augmentedreality:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.lycha.example.augmentedreality:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.lycha.example.augmentedreality:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.lycha.example.augmentedreality:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.lycha.example.augmentedreality:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.lycha.assignment.skyguide:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.lycha.assignment.skyguide:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.lycha.assignment.skyguide:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.lycha.assignment.skyguide:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.lycha.assignment.skyguide:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.lycha.assignment.skyguide:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.lycha.assignment.skyguide:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.lycha.assignment.skyguide:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.lycha.assignment.skyguide:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.lycha.assignment.skyguide:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.lycha.assignment.skyguide:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.lycha.assignment.skyguide:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.lycha.assignment.skyguide:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -13853,27 +13853,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:closeIcon
+          @attr name com.lycha.assignment.skyguide:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:commitIcon
+          @attr name com.lycha.assignment.skyguide:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13883,21 +13883,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:defaultQueryHint
+          @attr name com.lycha.assignment.skyguide:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:goIcon
+          @attr name com.lycha.assignment.skyguide:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13907,31 +13907,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:iconifiedByDefault
+          @attr name com.lycha.assignment.skyguide:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:layout
+          @attr name com.lycha.assignment.skyguide:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:queryBackground
+          @attr name com.lycha.assignment.skyguide:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13941,57 +13941,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:queryHint
+          @attr name com.lycha.assignment.skyguide:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:searchHintIcon
+          @attr name com.lycha.assignment.skyguide:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:searchIcon
+          @attr name com.lycha.assignment.skyguide:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:submitBackground
+          @attr name com.lycha.assignment.skyguide:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:suggestionRowLayout
+          @attr name com.lycha.assignment.skyguide:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:voiceIcon
+          @attr name com.lycha.assignment.skyguide:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Section.
@@ -14000,13 +14000,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Section_indexPrefixes com.lycha.example.augmentedreality:indexPrefixes}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_noIndex com.lycha.example.augmentedreality:noIndex}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_schemaOrgProperty com.lycha.example.augmentedreality:schemaOrgProperty}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionFormat com.lycha.example.augmentedreality:sectionFormat}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionId com.lycha.example.augmentedreality:sectionId}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_sectionWeight com.lycha.example.augmentedreality:sectionWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Section_subsectionSeparator com.lycha.example.augmentedreality:subsectionSeparator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_indexPrefixes com.lycha.assignment.skyguide:indexPrefixes}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_noIndex com.lycha.assignment.skyguide:noIndex}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_schemaOrgProperty com.lycha.assignment.skyguide:schemaOrgProperty}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionFormat com.lycha.assignment.skyguide:sectionFormat}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionId com.lycha.assignment.skyguide:sectionId}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_sectionWeight com.lycha.assignment.skyguide:sectionWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Section_subsectionSeparator com.lycha.assignment.skyguide:subsectionSeparator}</code></td><td></td></tr>
            </table>
            @see #Section_indexPrefixes
            @see #Section_noIndex
@@ -14021,7 +14021,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01018c, 0x7f01018d, 0x7f01018e
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#indexPrefixes}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#indexPrefixes}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14031,11 +14031,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:indexPrefixes
+          @attr name com.lycha.assignment.skyguide:indexPrefixes
         */
         public static final int Section_indexPrefixes = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#noIndex}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#noIndex}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14045,11 +14045,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:noIndex
+          @attr name com.lycha.assignment.skyguide:noIndex
         */
         public static final int Section_noIndex = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#schemaOrgProperty}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#schemaOrgProperty}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14059,11 +14059,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:schemaOrgProperty
+          @attr name com.lycha.assignment.skyguide:schemaOrgProperty
         */
         public static final int Section_schemaOrgProperty = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sectionFormat}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sectionFormat}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14079,11 +14079,11 @@ containing a value of this type.
 <tr><td><code>url</code></td><td>3</td><td></td></tr>
 <tr><td><code>date</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:sectionFormat
+          @attr name com.lycha.assignment.skyguide:sectionFormat
         */
         public static final int Section_sectionFormat = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sectionId}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sectionId}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14093,11 +14093,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:sectionId
+          @attr name com.lycha.assignment.skyguide:sectionId
         */
         public static final int Section_sectionId = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#sectionWeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#sectionWeight}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14107,11 +14107,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:sectionWeight
+          @attr name com.lycha.assignment.skyguide:sectionWeight
         */
         public static final int Section_sectionWeight = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subsectionSeparator}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subsectionSeparator}
           attribute's value can be found in the {@link #Section} array.
 
 
@@ -14121,7 +14121,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:subsectionSeparator
+          @attr name com.lycha.assignment.skyguide:subsectionSeparator
         */
         public static final int Section_subsectionSeparator = 5;
         /** Attributes that can be used with a SectionFeature.
@@ -14130,7 +14130,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SectionFeature_featureType com.lycha.example.augmentedreality:featureType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SectionFeature_featureType com.lycha.assignment.skyguide:featureType}</code></td><td></td></tr>
            </table>
            @see #SectionFeature_featureType
          */
@@ -14138,7 +14138,7 @@ containing a value of this type.
             0x7f01018f
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#featureType}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#featureType}
           attribute's value can be found in the {@link #SectionFeature} array.
 
 
@@ -14155,7 +14155,7 @@ containing a value of this type.
 <tr><td><code>omnibox_title_section</code></td><td>5</td><td></td></tr>
 <tr><td><code>index_entity_types</code></td><td>6</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:featureType
+          @attr name com.lycha.assignment.skyguide:featureType
         */
         public static final int SectionFeature_featureType = 0;
         /** Attributes that can be used with a SignInButton.
@@ -14164,9 +14164,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.lycha.example.augmentedreality:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.lycha.example.augmentedreality:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.lycha.example.augmentedreality:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.lycha.assignment.skyguide:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.lycha.assignment.skyguide:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.lycha.assignment.skyguide:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -14176,7 +14176,7 @@ containing a value of this type.
             0x7f010190, 0x7f010191, 0x7f010192
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -14192,11 +14192,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buttonSize
+          @attr name com.lycha.assignment.skyguide:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -14212,18 +14212,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:colorScheme
+          @attr name com.lycha.assignment.skyguide:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.lycha.example.augmentedreality:scopeUris
+          @attr name com.lycha.assignment.skyguide:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -14233,8 +14233,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.lycha.example.augmentedreality:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.lycha.example.augmentedreality:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.lycha.assignment.skyguide:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.lycha.assignment.skyguide:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -14250,7 +14250,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -14262,11 +14262,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:elevation
+          @attr name com.lycha.assignment.skyguide:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -14278,7 +14278,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:maxActionInlineWidth
+          @attr name com.lycha.assignment.skyguide:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -14291,7 +14291,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.lycha.example.augmentedreality:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.lycha.assignment.skyguide:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -14328,13 +14328,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:popupTheme
+          @attr name com.lycha.assignment.skyguide:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -14346,17 +14346,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.lycha.example.augmentedreality:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.lycha.example.augmentedreality:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.lycha.example.augmentedreality:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.lycha.example.augmentedreality:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.lycha.example.augmentedreality:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.lycha.example.augmentedreality:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.lycha.example.augmentedreality:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.lycha.example.augmentedreality:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.lycha.example.augmentedreality:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.lycha.example.augmentedreality:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.lycha.example.augmentedreality:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.lycha.assignment.skyguide:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.lycha.assignment.skyguide:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.lycha.assignment.skyguide:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.lycha.assignment.skyguide:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.lycha.assignment.skyguide:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.lycha.assignment.skyguide:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.lycha.assignment.skyguide:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.lycha.assignment.skyguide:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.lycha.assignment.skyguide:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.lycha.assignment.skyguide:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.lycha.assignment.skyguide:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -14398,7 +14398,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14408,11 +14408,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:showText
+          @attr name com.lycha.assignment.skyguide:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14422,11 +14422,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:splitTrack
+          @attr name com.lycha.assignment.skyguide:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14438,11 +14438,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:switchMinWidth
+          @attr name com.lycha.assignment.skyguide:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14454,21 +14454,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:switchPadding
+          @attr name com.lycha.assignment.skyguide:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:switchTextAppearance
+          @attr name com.lycha.assignment.skyguide:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14480,11 +14480,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:thumbTextPadding
+          @attr name com.lycha.assignment.skyguide:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14495,11 +14495,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:thumbTint
+          @attr name com.lycha.assignment.skyguide:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14516,21 +14516,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:thumbTintMode
+          @attr name com.lycha.assignment.skyguide:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#track}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:track
+          @attr name com.lycha.assignment.skyguide:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14541,11 +14541,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:trackTint
+          @attr name com.lycha.assignment.skyguide:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14562,7 +14562,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:trackTintMode
+          @attr name com.lycha.assignment.skyguide:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -14606,22 +14606,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.lycha.example.augmentedreality:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.lycha.example.augmentedreality:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.lycha.example.augmentedreality:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.lycha.example.augmentedreality:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.lycha.example.augmentedreality:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.lycha.example.augmentedreality:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.lycha.example.augmentedreality:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.lycha.example.augmentedreality:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.lycha.example.augmentedreality:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.lycha.example.augmentedreality:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.lycha.example.augmentedreality:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.lycha.example.augmentedreality:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.lycha.example.augmentedreality:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.lycha.example.augmentedreality:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.lycha.example.augmentedreality:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.lycha.example.augmentedreality:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.lycha.assignment.skyguide:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.lycha.assignment.skyguide:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.lycha.assignment.skyguide:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.lycha.assignment.skyguide:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.lycha.assignment.skyguide:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.lycha.assignment.skyguide:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.lycha.assignment.skyguide:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.lycha.assignment.skyguide:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.lycha.assignment.skyguide:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.lycha.assignment.skyguide:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.lycha.assignment.skyguide:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.lycha.assignment.skyguide:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.lycha.assignment.skyguide:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.lycha.assignment.skyguide:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.lycha.assignment.skyguide:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.lycha.assignment.skyguide:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -14647,17 +14647,17 @@ containing a value of this type.
             0x7f0101ab, 0x7f0101ac, 0x7f0101ad, 0x7f0101ae
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:tabBackground
+          @attr name com.lycha.assignment.skyguide:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14669,11 +14669,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabContentStart
+          @attr name com.lycha.assignment.skyguide:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14686,11 +14686,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:tabGravity
+          @attr name com.lycha.assignment.skyguide:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14701,11 +14701,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabIndicatorColor
+          @attr name com.lycha.assignment.skyguide:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14717,11 +14717,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabIndicatorHeight
+          @attr name com.lycha.assignment.skyguide:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14733,11 +14733,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabMaxWidth
+          @attr name com.lycha.assignment.skyguide:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14749,11 +14749,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabMinWidth
+          @attr name com.lycha.assignment.skyguide:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14766,11 +14766,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:tabMode
+          @attr name com.lycha.assignment.skyguide:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14782,11 +14782,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabPadding
+          @attr name com.lycha.assignment.skyguide:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14798,11 +14798,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabPaddingBottom
+          @attr name com.lycha.assignment.skyguide:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14814,11 +14814,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabPaddingEnd
+          @attr name com.lycha.assignment.skyguide:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14830,11 +14830,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabPaddingStart
+          @attr name com.lycha.assignment.skyguide:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14846,11 +14846,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabPaddingTop
+          @attr name com.lycha.assignment.skyguide:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14861,21 +14861,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabSelectedTextColor
+          @attr name com.lycha.assignment.skyguide:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:tabTextAppearance
+          @attr name com.lycha.assignment.skyguide:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14886,7 +14886,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:tabTextColor
+          @attr name com.lycha.assignment.skyguide:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -14904,7 +14904,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.lycha.example.augmentedreality:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.lycha.assignment.skyguide:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -14977,14 +14977,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.lycha.example.augmentedreality:textAllCaps
+          @attr name com.lycha.assignment.skyguide:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -14995,20 +14995,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.lycha.example.augmentedreality:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.lycha.example.augmentedreality:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.lycha.example.augmentedreality:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.lycha.example.augmentedreality:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.lycha.example.augmentedreality:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.lycha.example.augmentedreality:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.lycha.example.augmentedreality:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.lycha.example.augmentedreality:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.lycha.example.augmentedreality:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.lycha.example.augmentedreality:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.lycha.example.augmentedreality:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.lycha.example.augmentedreality:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.lycha.example.augmentedreality:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.lycha.example.augmentedreality:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.lycha.assignment.skyguide:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.lycha.assignment.skyguide:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.lycha.assignment.skyguide:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.lycha.assignment.skyguide:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.lycha.assignment.skyguide:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.lycha.assignment.skyguide:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.lycha.assignment.skyguide:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.lycha.assignment.skyguide:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.lycha.assignment.skyguide:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.lycha.assignment.skyguide:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.lycha.assignment.skyguide:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.lycha.assignment.skyguide:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.lycha.assignment.skyguide:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.lycha.assignment.skyguide:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -15046,7 +15046,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15056,11 +15056,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:counterEnabled
+          @attr name com.lycha.assignment.skyguide:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15070,31 +15070,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:counterMaxLength
+          @attr name com.lycha.assignment.skyguide:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:counterOverflowTextAppearance
+          @attr name com.lycha.assignment.skyguide:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:counterTextAppearance
+          @attr name com.lycha.assignment.skyguide:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15104,21 +15104,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:errorEnabled
+          @attr name com.lycha.assignment.skyguide:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:errorTextAppearance
+          @attr name com.lycha.assignment.skyguide:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15128,11 +15128,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:hintAnimationEnabled
+          @attr name com.lycha.assignment.skyguide:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15142,21 +15142,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:hintEnabled
+          @attr name com.lycha.assignment.skyguide:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:hintTextAppearance
+          @attr name com.lycha.assignment.skyguide:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15166,21 +15166,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:passwordToggleContentDescription
+          @attr name com.lycha.assignment.skyguide:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:passwordToggleDrawable
+          @attr name com.lycha.assignment.skyguide:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15190,11 +15190,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:passwordToggleEnabled
+          @attr name com.lycha.assignment.skyguide:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15205,11 +15205,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:passwordToggleTint
+          @attr name com.lycha.assignment.skyguide:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15225,7 +15225,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:passwordToggleTintMode
+          @attr name com.lycha.assignment.skyguide:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -15236,33 +15236,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.lycha.example.augmentedreality:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.lycha.example.augmentedreality:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.lycha.example.augmentedreality:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.lycha.example.augmentedreality:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.lycha.example.augmentedreality:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.lycha.example.augmentedreality:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.lycha.example.augmentedreality:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.lycha.example.augmentedreality:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.lycha.example.augmentedreality:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.lycha.example.augmentedreality:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.lycha.example.augmentedreality:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.lycha.example.augmentedreality:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.lycha.example.augmentedreality:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.lycha.example.augmentedreality:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.lycha.example.augmentedreality:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.lycha.example.augmentedreality:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.lycha.example.augmentedreality:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.lycha.example.augmentedreality:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.lycha.example.augmentedreality:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.lycha.example.augmentedreality:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.lycha.example.augmentedreality:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.lycha.example.augmentedreality:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.lycha.example.augmentedreality:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.lycha.example.augmentedreality:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.lycha.example.augmentedreality:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.lycha.example.augmentedreality:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.lycha.example.augmentedreality:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.lycha.assignment.skyguide:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.lycha.assignment.skyguide:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.lycha.assignment.skyguide:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.lycha.assignment.skyguide:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.lycha.assignment.skyguide:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.lycha.assignment.skyguide:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.lycha.assignment.skyguide:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.lycha.assignment.skyguide:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.lycha.assignment.skyguide:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.lycha.assignment.skyguide:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.lycha.assignment.skyguide:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.lycha.assignment.skyguide:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.lycha.assignment.skyguide:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.lycha.assignment.skyguide:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.lycha.assignment.skyguide:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.lycha.assignment.skyguide:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.lycha.assignment.skyguide:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.lycha.assignment.skyguide:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.lycha.assignment.skyguide:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.lycha.assignment.skyguide:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.lycha.assignment.skyguide:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.lycha.assignment.skyguide:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.lycha.assignment.skyguide:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.lycha.assignment.skyguide:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.lycha.assignment.skyguide:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.lycha.assignment.skyguide:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.lycha.assignment.skyguide:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -15317,7 +15317,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15330,11 +15330,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buttonGravity
+          @attr name com.lycha.assignment.skyguide:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15344,21 +15344,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:collapseContentDescription
+          @attr name com.lycha.assignment.skyguide:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:collapseIcon
+          @attr name com.lycha.assignment.skyguide:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15370,11 +15370,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetEnd
+          @attr name com.lycha.assignment.skyguide:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15386,11 +15386,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetEndWithActions
+          @attr name com.lycha.assignment.skyguide:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15402,11 +15402,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetLeft
+          @attr name com.lycha.assignment.skyguide:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15418,11 +15418,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetRight
+          @attr name com.lycha.assignment.skyguide:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15434,11 +15434,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetStart
+          @attr name com.lycha.assignment.skyguide:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15450,21 +15450,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:contentInsetStartWithNavigation
+          @attr name com.lycha.assignment.skyguide:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:logo
+          @attr name com.lycha.assignment.skyguide:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15474,11 +15474,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:logoDescription
+          @attr name com.lycha.assignment.skyguide:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15490,11 +15490,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:maxButtonHeight
+          @attr name com.lycha.assignment.skyguide:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15504,31 +15504,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:navigationContentDescription
+          @attr name com.lycha.assignment.skyguide:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:navigationIcon
+          @attr name com.lycha.assignment.skyguide:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:popupTheme
+          @attr name com.lycha.assignment.skyguide:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15538,21 +15538,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:subtitle
+          @attr name com.lycha.assignment.skyguide:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:subtitleTextAppearance
+          @attr name com.lycha.assignment.skyguide:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15563,11 +15563,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:subtitleTextColor
+          @attr name com.lycha.assignment.skyguide:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#title}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15577,11 +15577,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:title
+          @attr name com.lycha.assignment.skyguide:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15593,11 +15593,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMargin
+          @attr name com.lycha.assignment.skyguide:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15609,11 +15609,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMarginBottom
+          @attr name com.lycha.assignment.skyguide:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15625,11 +15625,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMarginEnd
+          @attr name com.lycha.assignment.skyguide:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15641,11 +15641,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMarginStart
+          @attr name com.lycha.assignment.skyguide:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15657,11 +15657,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMarginTop
+          @attr name com.lycha.assignment.skyguide:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15673,21 +15673,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleMargins
+          @attr name com.lycha.assignment.skyguide:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:titleTextAppearance
+          @attr name com.lycha.assignment.skyguide:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15698,7 +15698,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:titleTextColor
+          @attr name com.lycha.assignment.skyguide:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -15709,9 +15709,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.lycha.example.augmentedreality:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.lycha.example.augmentedreality:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.lycha.example.augmentedreality:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.lycha.assignment.skyguide:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.lycha.assignment.skyguide:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.lycha.assignment.skyguide:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -15736,7 +15736,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -15748,11 +15748,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paddingEnd
+          @attr name com.lycha.assignment.skyguide:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -15764,17 +15764,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:paddingStart
+          @attr name com.lycha.assignment.skyguide:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:theme
+          @attr name com.lycha.assignment.skyguide:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -15784,8 +15784,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.lycha.example.augmentedreality:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.lycha.example.augmentedreality:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.lycha.assignment.skyguide:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.lycha.assignment.skyguide:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -15801,7 +15801,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -15812,11 +15812,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:backgroundTint
+          @attr name com.lycha.assignment.skyguide:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -15832,7 +15832,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:backgroundTintMode
+          @attr name com.lycha.assignment.skyguide:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -15876,10 +15876,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.lycha.example.augmentedreality:appTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_environment com.lycha.example.augmentedreality:environment}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.lycha.example.augmentedreality:fragmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.lycha.example.augmentedreality:fragmentStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.lycha.assignment.skyguide:appTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_environment com.lycha.assignment.skyguide:environment}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.lycha.assignment.skyguide:fragmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.lycha.assignment.skyguide:fragmentStyle}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentOptions_appTheme
            @see #WalletFragmentOptions_environment
@@ -15890,7 +15890,7 @@ containing a value of this type.
             0x7f0101d3, 0x7f0101d4, 0x7f0101d5, 0x7f0101d6
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#appTheme}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#appTheme}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -15903,11 +15903,11 @@ containing a value of this type.
 <tr><td><code>holo_dark</code></td><td>0</td><td></td></tr>
 <tr><td><code>holo_light</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:appTheme
+          @attr name com.lycha.assignment.skyguide:appTheme
         */
         public static final int WalletFragmentOptions_appTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#environment}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#environment}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -15922,11 +15922,11 @@ containing a value of this type.
 <tr><td><code>sandbox</code></td><td>0</td><td></td></tr>
 <tr><td><code>strict_sandbox</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:environment
+          @attr name com.lycha.assignment.skyguide:environment
         */
         public static final int WalletFragmentOptions_environment = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#fragmentMode}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#fragmentMode}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -15939,17 +15939,17 @@ containing a value of this type.
 <tr><td><code>buyButton</code></td><td>1</td><td></td></tr>
 <tr><td><code>selectionDetails</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:fragmentMode
+          @attr name com.lycha.assignment.skyguide:fragmentMode
         */
         public static final int WalletFragmentOptions_fragmentMode = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#fragmentStyle}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#fragmentStyle}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:fragmentStyle
+          @attr name com.lycha.assignment.skyguide:fragmentStyle
         */
         public static final int WalletFragmentOptions_fragmentStyle = 2;
         /** Attributes that can be used with a WalletFragmentStyle.
@@ -15958,17 +15958,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.lycha.example.augmentedreality:buyButtonAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.lycha.example.augmentedreality:buyButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.lycha.example.augmentedreality:buyButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.lycha.example.augmentedreality:buyButtonWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.lycha.example.augmentedreality:maskedWalletDetailsBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.lycha.example.augmentedreality:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.lycha.example.augmentedreality:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.lycha.example.augmentedreality:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.lycha.example.augmentedreality:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.lycha.example.augmentedreality:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.lycha.example.augmentedreality:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.lycha.assignment.skyguide:buyButtonAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.lycha.assignment.skyguide:buyButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.lycha.assignment.skyguide:buyButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.lycha.assignment.skyguide:buyButtonWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.lycha.assignment.skyguide:maskedWalletDetailsBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.lycha.assignment.skyguide:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.lycha.assignment.skyguide:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.lycha.assignment.skyguide:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.lycha.assignment.skyguide:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.lycha.assignment.skyguide:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.lycha.assignment.skyguide:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentStyle_buyButtonAppearance
            @see #WalletFragmentStyle_buyButtonHeight
@@ -15988,7 +15988,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0101df, 0x7f0101e0, 0x7f0101e1
         };
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buyButtonAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buyButtonAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16008,11 +16008,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>grayscale</code></td><td>2</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buyButtonAppearance
+          @attr name com.lycha.assignment.skyguide:buyButtonAppearance
         */
         public static final int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buyButtonHeight}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buyButtonHeight}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16033,11 +16033,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buyButtonHeight
+          @attr name com.lycha.assignment.skyguide:buyButtonHeight
         */
         public static final int WalletFragmentStyle_buyButtonHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buyButtonText}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buyButtonText}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16055,11 +16055,11 @@ containing a value of this type.
 <tr><td><code>book_now</code></td><td>3</td><td></td></tr>
 <tr><td><code>donate_with_google</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buyButtonText
+          @attr name com.lycha.assignment.skyguide:buyButtonText
         */
         public static final int WalletFragmentStyle_buyButtonText = 2;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#buyButtonWidth}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#buyButtonWidth}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16080,11 +16080,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:buyButtonWidth
+          @attr name com.lycha.assignment.skyguide:buyButtonWidth
         */
         public static final int WalletFragmentStyle_buyButtonWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16092,11 +16092,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsBackground
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsButtonBackground}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsButtonBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16104,31 +16104,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsButtonBackground
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsButtonBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsButtonTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsButtonTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsButtonTextAppearance
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsButtonTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsHeaderTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsHeaderTextAppearance
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsHeaderTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsLogoImageType}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsLogoImageType}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16144,11 +16144,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>classic</code></td><td>1</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsLogoImageType
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsLogoImageType
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsLogoTextColor}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsLogoTextColor}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -16159,17 +16159,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsLogoTextColor
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsLogoTextColor
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.lycha.example.augmentedreality.R.attr#maskedWalletDetailsTextAppearance}
+          <p>This symbol is the offset where the {@link com.lycha.assignment.skyguide.R.attr#maskedWalletDetailsTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.lycha.example.augmentedreality:maskedWalletDetailsTextAppearance
+          @attr name com.lycha.assignment.skyguide:maskedWalletDetailsTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
     };

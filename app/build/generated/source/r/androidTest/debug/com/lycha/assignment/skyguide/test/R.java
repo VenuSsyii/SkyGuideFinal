@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.lycha.example.augmentedreality.test;
+package com.lycha.assignment.skyguide.test;
 
 public final class R {
     public static final class attr {

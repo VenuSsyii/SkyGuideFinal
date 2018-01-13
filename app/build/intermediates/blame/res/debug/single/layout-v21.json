@@ -4,10 +4,6 @@
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
@@ -18,22 +14,6 @@
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\b071ba19836c074c72b32a6f01daefe724b9d23d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\gemin\\.android\\build-cache\\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",

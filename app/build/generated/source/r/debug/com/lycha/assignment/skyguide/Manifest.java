@@ -9,6 +9,6 @@ package com.lycha.assignment.skyguide;
 
 public final class Manifest {
     public static final class permission {
-        public static final String C2D_MESSAGE="com.lycha.example.augmentedreality.permission.C2D_MESSAGE";
+        public static final String C2D_MESSAGE="com.lycha.assignment.skyguide.permission.C2D_MESSAGE";
     }
 }

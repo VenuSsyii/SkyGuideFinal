@@ -89,6 +89,7 @@ public class CameraViewActivity extends Activity implements
 		DatabaseHelper db = new DatabaseHelper(this);
 
 		List<AugmentedPOI> values = db.getAllRecords();
+
 		for(AugmentedPOI poi:values){
 			addAugmentedRealityPoint(poi);
 		}
