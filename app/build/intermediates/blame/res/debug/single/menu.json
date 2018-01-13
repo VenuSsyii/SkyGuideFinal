@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_camera_view.xml",
+        "source": "D:\\SkyGuide\\app\\src\\main\\res\\menu\\activity_camera_view.xml"
+    },
+    {
+        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_camera_view.xml",
+        "source": "D:\\augmented-reality-example-master\\app\\src\\main\\res\\menu\\activity_camera_view.xml"
+    }
+]

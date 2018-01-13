@@ -1,0 +1,4 @@
+#Sun Jan 14 02:16:16 SGT 2018
+base.0=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

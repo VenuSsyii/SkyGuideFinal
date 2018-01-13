@@ -1,0 +1,7 @@
+#Sun Jan 14 02:16:17 SGT 2018
+base.0=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcbca25cf4a6c26424a9b32c0bb7708c515c3f89
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ca31cdcd005449a406bd70d758107c5726cf702c\\classes.dex
+base.1=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ca31cdcd005449a406bd70d758107c5726cf702c
+file.0=D\:\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fcbca25cf4a6c26424a9b32c0bb7708c515c3f89\\classes.dex

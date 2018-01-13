@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow.jpg",
+        "source": "D:\\augmented-reality-example-master\\app\\src\\main\\res\\drawable-ldpi\\arrow.jpg"
+    },
+    {
+        "merged": "D:\\SkyGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow.jpg",
+        "source": "D:\\SkyGuide\\app\\src\\main\\res\\drawable-ldpi\\arrow.jpg"
+    }
+]

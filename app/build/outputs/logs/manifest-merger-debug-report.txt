@@ -1,0 +1,481 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\gemin\.android\build-cache\9dce6ff391c13c23e248ca0f71fab2c94f886e17\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\gemin\.android\build-cache\02c0a80ec281f71c4a4abf2b075e40726b9e2b4b\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\gemin\.android\build-cache\9c454e526ae06450ff95b7f94917eff700fcf486\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\d92175a210247f8a7d53b1ded96c170fd842b396\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:13:9-47
+application
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:16:5-45:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\gemin\.android\build-cache\060c6796190ce429ec30708a25c23d5e25885dbd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gemin\.android\build-cache\fb3626dd16bc206417f5745c890c3476fb785fe1\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\gemin\.android\build-cache\a539525bcfd98ebf4c85109e8fb1f967cb0ad68b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\gemin\.android\build-cache\2f87245a864d351de99986854b953dce5c583198\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\gemin\.android\build-cache\629d8e554d18e926f1e4360ced91687db678bec5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\gemin\.android\build-cache\b071ba19836c074c72b32a6f01daefe724b9d23d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\c68d0dc3a6ee0efeb657e87721209e193ddc1e3a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\gemin\.android\build-cache\2021487ad44b5498b8e3e04320f2b79de36aad36\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\gemin\.android\build-cache\f85c41198c25d2226abd14140f96c078004fe1d4\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\gemin\.android\build-cache\1e783b114b2071e4b47341f78dc2fae95177aac5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\gemin\.android\build-cache\17ed6ef580d99d5fcc6c6851a2ae851d8eff2bde\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\gemin\.android\build-cache\9dce6ff391c13c23e248ca0f71fab2c94f886e17\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\gemin\.android\build-cache\0242d9e0120908831d7b419adafdf17bc1f70d37\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\gemin\.android\build-cache\2ffb17f68ed1d98815d0144fa5e6e4a3185bbbee\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\gemin\.android\build-cache\97e49a59133c4148ee741b4008f2d024b8e8a649\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\gemin\.android\build-cache\5261e93ad04e8eaade093e1848a95759e49e3647\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\gemin\.android\build-cache\06186b28906c9f85a8568e91ff7063765b128a86\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\gemin\.android\build-cache\c1f4c1d6c7a675f3ba81c2e3d59591bae3fde78c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\gemin\.android\build-cache\02c0a80ec281f71c4a4abf2b075e40726b9e2b4b\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\gemin\.android\build-cache\aafabf83377e91bd0b95cad827c36bbb6d31d7e3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\gemin\.android\build-cache\9c454e526ae06450ff95b7f94917eff700fcf486\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\gemin\.android\build-cache\a50c10dda32f2b6ceb0867fff60d1dc6698bbcf1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\gemin\.android\build-cache\3ef8f26b2ac98c6edadbeac59a54f2fb35bdcfd2\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\gemin\.android\build-cache\3fe332269ab58c566e830e07f07598c0ea43d3f3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\gemin\.android\build-cache\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\gemin\.android\build-cache\4ec9ba1b0141af4681adcfca2da82718bad0ed63\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\gemin\.android\build-cache\74844438e397ae00e11ceee6a925054aba306dc9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\gemin\.android\build-cache\22266c75e46a4b9f3877855d4611f28a18b5bfe5\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\d92175a210247f8a7d53b1ded96c170fd842b396\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\gemin\.android\build-cache\282b7c5c9271079c3ed22b5589ad8bf202fa6844\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\gemin\.android\build-cache\2ffa85559a165aa73c6940274fd590cfc84cdd7c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\gemin\.android\build-cache\163039536b545d985b4389d7f05191505b5a1476\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\gemin\.android\build-cache\d401078fabcefdf7fd76fba6f11daecde4383f2f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\gemin\.android\build-cache\69a464b32973b845cfc698fc04038e91501d5a03\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\gemin\.android\build-cache\506d81734f67ca8eb6ba1d001596a0fcadf165d6\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\gemin\.android\build-cache\e8f6fce628a20ee02e767f47179923c95ca6e8e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\gemin\.android\build-cache\84e02d599603403f7b6d2d36a015d4b4f8d8b1aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\gemin\.android\build-cache\a006bd19145e0a3889ec4b7abd15449861a0cedb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\gemin\.android\build-cache\7e78677da5cba2ba7f68d491df4285874a1759a1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\gemin\.android\build-cache\43014ff71a94678c1dde72fc3ad68d0a2b32c6b5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\d6f81f957c882a497555fef7a6efd1fb1e97242a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\gemin\.android\build-cache\3130e0e157e4d72ac374ccec75a08470e7540f56\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:20:9-53
+activity#com.lycha.assignment.skyguide.StartActivity
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:21:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.lycha.assignment.skyguide.SettingActivity
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:28:9-53
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:28:19-50
+activity#com.lycha.assignment.skyguide.CameraViewActivity
+ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from D:\SkyGuide\app\src\main\AndroidManifest.xml:29:19-53
+uses-sdk
+INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\gemin\.android\build-cache\347e32584d5d7fc5fae8b637ec5253ec8a75366f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\gemin\.android\build-cache\060c6796190ce429ec30708a25c23d5e25885dbd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\gemin\.android\build-cache\fb3626dd16bc206417f5745c890c3476fb785fe1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\gemin\.android\build-cache\a539525bcfd98ebf4c85109e8fb1f967cb0ad68b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\gemin\.android\build-cache\84f7f45d2d7e6f4c68867fce7b3fef43dbb66498\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\gemin\.android\build-cache\4690ab5f9431b4644eb208687ce07d71e9317261\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\gemin\.android\build-cache\bc741cfe1e52283d43202007c6c78b6de2646d69\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\gemin\.android\build-cache\2f87245a864d351de99986854b953dce5c583198\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\gemin\.android\build-cache\629d8e554d18e926f1e4360ced91687db678bec5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\gemin\.android\build-cache\b071ba19836c074c72b32a6f01daefe724b9d23d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\c68d0dc3a6ee0efeb657e87721209e193ddc1e3a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\gemin\.android\build-cache\2021487ad44b5498b8e3e04320f2b79de36aad36\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\gemin\.android\build-cache\f85c41198c25d2226abd14140f96c078004fe1d4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\gemin\.android\build-cache\1e783b114b2071e4b47341f78dc2fae95177aac5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\gemin\.android\build-cache\17ed6ef580d99d5fcc6c6851a2ae851d8eff2bde\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\gemin\.android\build-cache\9dce6ff391c13c23e248ca0f71fab2c94f886e17\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\gemin\.android\build-cache\0242d9e0120908831d7b419adafdf17bc1f70d37\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\gemin\.android\build-cache\e165104abf9471138b3c0bd688ca72e6418da3be\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\gemin\.android\build-cache\1d40a92c2530ef1de69895feb563d5b35c296596\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\gemin\.android\build-cache\2ffb17f68ed1d98815d0144fa5e6e4a3185bbbee\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\gemin\.android\build-cache\3c63046b89d26aa024d5eb3b31bc912c56eb048f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\gemin\.android\build-cache\18c9ef8417172e38c462c752d5e04c1693825c94\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\gemin\.android\build-cache\97e49a59133c4148ee741b4008f2d024b8e8a649\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\gemin\.android\build-cache\5261e93ad04e8eaade093e1848a95759e49e3647\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\gemin\.android\build-cache\06186b28906c9f85a8568e91ff7063765b128a86\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\gemin\.android\build-cache\c1f4c1d6c7a675f3ba81c2e3d59591bae3fde78c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\gemin\.android\build-cache\02c0a80ec281f71c4a4abf2b075e40726b9e2b4b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\gemin\.android\build-cache\aafabf83377e91bd0b95cad827c36bbb6d31d7e3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\gemin\.android\build-cache\9c454e526ae06450ff95b7f94917eff700fcf486\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\gemin\.android\build-cache\3aedb0bd35ee59c0b96e94f0d038e445370a4a7b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\gemin\.android\build-cache\a50c10dda32f2b6ceb0867fff60d1dc6698bbcf1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\gemin\.android\build-cache\3ef8f26b2ac98c6edadbeac59a54f2fb35bdcfd2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\gemin\.android\build-cache\3fe332269ab58c566e830e07f07598c0ea43d3f3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\gemin\.android\build-cache\6435a684ed3275a6d91cabb1bb70bfd53ba8583d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\gemin\.android\build-cache\4ec9ba1b0141af4681adcfca2da82718bad0ed63\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\gemin\.android\build-cache\74844438e397ae00e11ceee6a925054aba306dc9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\gemin\.android\build-cache\5be0d7b44a3c1ce79c8a2e673a7c7096428386b6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\gemin\.android\build-cache\22266c75e46a4b9f3877855d4611f28a18b5bfe5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\d92175a210247f8a7d53b1ded96c170fd842b396\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\gemin\.android\build-cache\282b7c5c9271079c3ed22b5589ad8bf202fa6844\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\gemin\.android\build-cache\2ffa85559a165aa73c6940274fd590cfc84cdd7c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\gemin\.android\build-cache\716f5bffe6ebbf9649cfa9f18c28ed53ee9290a7\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\gemin\.android\build-cache\163039536b545d985b4389d7f05191505b5a1476\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\gemin\.android\build-cache\d401078fabcefdf7fd76fba6f11daecde4383f2f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\gemin\.android\build-cache\69a464b32973b845cfc698fc04038e91501d5a03\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\gemin\.android\build-cache\506d81734f67ca8eb6ba1d001596a0fcadf165d6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\gemin\.android\build-cache\e8f6fce628a20ee02e767f47179923c95ca6e8e4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\gemin\.android\build-cache\84e02d599603403f7b6d2d36a015d4b4f8d8b1aa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\gemin\.android\build-cache\a006bd19145e0a3889ec4b7abd15449861a0cedb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\gemin\.android\build-cache\7e78677da5cba2ba7f68d491df4285874a1759a1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\gemin\.android\build-cache\43014ff71a94678c1dde72fc3ad68d0a2b32c6b5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\d6f81f957c882a497555fef7a6efd1fb1e97242a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\gemin\.android\build-cache\3130e0e157e4d72ac374ccec75a08470e7540f56\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SkyGuide\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\gemin\.android\build-cache\347e32584d5d7fc5fae8b637ec5253ec8a75366f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\gemin\.android\build-cache\060c6796190ce429ec30708a25c23d5e25885dbd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\gemin\.android\build-cache\b071ba19836c074c72b32a6f01daefe724b9d23d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\c68d0dc3a6ee0efeb657e87721209e193ddc1e3a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\gemin\.android\build-cache\e8f6fce628a20ee02e767f47179923c95ca6e8e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\gemin\.android\build-cache\84e02d599603403f7b6d2d36a015d4b4f8d8b1aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\gemin\.android\build-cache\a006bd19145e0a3889ec4b7abd15449861a0cedb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\gemin\.android\build-cache\7e78677da5cba2ba7f68d491df4285874a1759a1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\gemin\.android\build-cache\43014ff71a94678c1dde72fc3ad68d0a2b32c6b5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\gemin\.android\build-cache\d6f81f957c882a497555fef7a6efd1fb1e97242a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\gemin\.android\build-cache\3130e0e157e4d72ac374ccec75a08470e7540f56\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\gemin\.android\build-cache\a9c8132a7b709e41222ad4b900f4ca918e74bcfc\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\gemin\.android\build-cache\3ef8f26b2ac98c6edadbeac59a54f2fb35bdcfd2\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\d92175a210247f8a7d53b1ded96c170fd842b396\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\gemin\.android\build-cache\fb3b769f4e198e91c1c8cd65316e85d0844a6e4f\output\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\d92175a210247f8a7d53b1ded96c170fd842b396\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\gemin\.android\build-cache\83cbd43a9032a39efc399af72f9fc735db9584bf\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\gemin\.android\build-cache\979f0711cb1fe11012c26f2eb272034ea5bb4cc6\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\gemin\.android\build-cache\805b8d5af013fe3a9e16d2a166da4bd7501e06cf\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\gemin\.android\build-cache\53847c4fd9575354bf134f71720266d8ea4a8e47\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\gemin\.android\build-cache\6f9009aed574f15b02bd965d94c21c0dc9b20214\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\gemin\.android\build-cache\02c0a80ec281f71c4a4abf2b075e40726b9e2b4b\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\gemin\.android\build-cache\9c454e526ae06450ff95b7f94917eff700fcf486\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\gemin\.android\build-cache\02c0a80ec281f71c4a4abf2b075e40726b9e2b4b\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\gemin\.android\build-cache\056426fd594f2dcc87874ba0ff90b11c44bd4778\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\gemin\.android\build-cache\ee49f49afa44196bb62c0f574d5ec61a7fc75310\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\gemin\.android\build-cache\dcc29c63a478373c932db2f37caafab05d6efd81\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\gemin\.android\build-cache\a982c779005a2e6eda14bfe13590838c8f1d49f5\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\gemin\.android\build-cache\12a1aac83089a5509df7b8c4e19820014faebba7\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\gemin\.android\build-cache\e8ca943a71948d6004fb0c728fac6e1a6090e729\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\gemin\.android\build-cache\595ef33f9c79426d31e9fb5b800c1462a6aac5b9\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\gemin\.android\build-cache\506d81734f67ca8eb6ba1d001596a0fcadf165d6\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\gemin\.android\build-cache\506d81734f67ca8eb6ba1d001596a0fcadf165d6\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\gemin\.android\build-cache\506d81734f67ca8eb6ba1d001596a0fcadf165d6\output\AndroidManifest.xml:20:20-65
